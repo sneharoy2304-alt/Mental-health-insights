@@ -1,0 +1,1260 @@
+Age,Gender,Country,self_employed,family_history,treatment,work_interfere,no_employees,remote_work,tech_company,benefits,care_options,wellness_program,seek_help,anonymity,leave,mental_health_consequence,phys_health_consequence,coworkers,supervisor,mental_health_interview,phys_health_interview,mental_vs_physical,obs_consequence
+37,Female,United States,0,0,1,Often,6-25,0,1,1,0,0,1,1,,0,0,0,1,0,0,1,0
+44,Male,United States,0,0,0,Rarely,More than 1000,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+32,Male,Canada,0,0,0,Rarely,6-25,0,1,0,0,0,0,0,,0,0,1,1,1,1,0,0
+31,Male,United Kingdom,0,1,1,Often,26-100,0,1,0,1,0,0,0,,1,1,0,0,0,0,0,1
+31,Male,United States,0,0,0,Never,100-500,1,1,1,0,0,0,0,,0,0,0,1,1,1,0,0
+33,Male,United States,0,1,0,Sometimes,6-25,0,1,1,0,0,0,0,,0,0,1,1,0,0,0,0
+35,Female,United States,0,1,1,Sometimes,1-5,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+39,Male,Canada,0,0,0,Never,1-5,1,1,0,1,0,0,1,,0,0,0,0,0,0,0,0
+42,Female,United States,0,1,1,Sometimes,100-500,0,1,1,1,0,0,0,,0,0,1,1,0,0,0,0
+23,Male,Canada,0,0,0,Never,26-100,0,1,0,0,0,0,0,,0,0,1,1,0,0,1,0
+31,Male,United States,0,0,1,Sometimes,6-25,1,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+29,Male,Bulgaria,0,0,0,Never,100-500,1,1,0,0,0,0,0,,0,0,1,1,1,1,0,0
+42,Female,United States,0,1,1,Sometimes,26-100,0,0,1,1,0,0,0,,1,1,1,1,0,0,0,1
+36,Male,United States,0,1,0,Never,500-1000,0,1,0,0,0,0,0,,0,0,1,1,0,0,0,0
+27,Male,Canada,0,0,0,Never,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,1,1,0
+29,Female,United States,0,1,1,Rarely,26-100,0,1,1,0,0,0,0,,0,0,1,0,0,0,0,0
+23,Male,United Kingdom,0,0,1,Sometimes,26-100,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+32,Male,United States,0,0,1,Sometimes,6-25,0,1,1,1,0,0,0,,0,0,0,1,0,0,0,0
+46,Male,United States,1,1,0,Sometimes,1-5,1,1,1,0,1,0,1,,0,0,1,1,0,1,1,1
+36,Male,France,1,1,0,Unknown,6-25,1,1,0,0,1,0,1,,0,0,0,0,0,0,0,0
+29,Male,United States,0,1,1,Sometimes,100-500,0,1,1,1,0,0,0,,0,0,0,0,0,0,0,0
+31,Male,United States,1,0,0,Never,1-5,1,1,0,0,0,0,1,,0,0,0,0,0,0,1,0
+46,Male,United States,0,0,1,Often,26-100,1,1,1,1,0,0,0,,0,0,0,1,0,0,0,0
+41,Male,United States,0,0,1,Never,More than 1000,0,0,0,0,0,0,0,,0,0,0,0,0,1,0,0
+33,Male,United States,0,1,1,Rarely,26-100,0,1,1,0,0,1,1,,0,0,1,1,0,1,0,0
+35,Male,United States,0,1,1,Sometimes,More than 1000,0,0,1,1,0,0,0,,1,0,0,1,0,1,0,0
+33,Male,United States,0,0,0,Unknown,1-5,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+35,Female,United States,0,1,1,Rarely,6-25,1,1,1,1,0,0,0,,0,0,1,1,0,0,1,0
+34,Male,United States,0,0,1,Sometimes,26-100,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+37,Male,United Kingdom,0,0,0,Sometimes,6-25,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+32,Male,United Kingdom,0,0,0,Never,6-25,1,1,0,0,0,0,0,,1,1,0,0,0,0,0,0
+31,Male,United States,1,1,0,Rarely,1-5,1,1,0,1,0,0,0,,1,0,0,0,0,0,0,1
+30,Male,United Kingdom,0,1,1,Sometimes,500-1000,1,1,0,0,0,0,1,,0,0,0,1,0,1,0,0
+42,Male,United States,0,1,1,Sometimes,26-100,1,1,1,1,1,1,1,,0,0,0,0,0,1,0,0
+40,Female,United States,0,0,1,Sometimes,1-5,0,1,1,1,0,0,0,,0,0,0,0,0,0,1,0
+27,Male,United States,0,0,1,Rarely,6-25,0,1,0,1,0,0,0,,0,0,1,1,0,0,0,0
+29,Male,Canada,0,0,0,Rarely,1-5,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+38,Male,Portugal,0,0,0,Unknown,100-500,0,1,0,1,0,0,0,,0,0,0,0,0,0,0,0
+50,Male,United States,0,0,0,Unknown,100-500,0,1,1,1,0,0,0,,0,0,0,1,0,0,0,0
+35,Male,United States,0,0,1,Rarely,More than 1000,1,1,1,1,0,1,1,,0,0,1,1,0,0,1,0
+24,Male,United Kingdom,0,0,1,Sometimes,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,1,0,1
+35,Male,United States,0,0,0,Unknown,More than 1000,1,1,1,0,0,1,0,,1,1,0,0,0,0,0,0
+27,Male,Canada,0,1,1,Sometimes,1-5,0,1,0,1,0,0,1,,0,0,0,0,0,0,1,0
+18,Male,Netherlands,0,0,0,Often,6-25,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+30,Male,United States,0,0,1,Sometimes,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+38,Female,United States,0,1,1,Sometimes,26-100,0,1,1,1,0,1,1,,0,0,0,1,0,0,1,0
+28,Male,United Kingdom,0,0,0,Unknown,26-100,0,1,0,0,0,0,0,,0,0,0,1,0,1,0,0
+34,Male,United States,0,0,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,1,1,0,1,0,0
+26,Male,Canada,1,0,0,Sometimes,1-5,0,1,0,1,1,0,0,,0,0,1,1,0,0,1,0
+30,Male,United States,0,1,1,Rarely,26-100,0,1,1,0,0,0,0,,0,0,0,1,0,0,0,0
+22,Male,United States,0,1,1,Often,6-25,0,1,0,1,0,0,1,,0,0,0,0,0,0,0,0
+33,Male,United States,0,0,0,Unknown,100-500,1,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+31,Male,United States,0,0,0,Unknown,100-500,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+32,Male,United States,0,0,0,Never,1-5,1,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+28,Male,Switzerland,0,0,0,Unknown,100-500,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+27,Male,United States,0,1,1,Rarely,26-100,0,1,1,1,0,0,1,,0,0,0,0,0,0,0,0
+32,Male,United States,0,1,0,Unknown,6-25,1,1,0,0,0,0,0,,0,0,1,1,0,0,1,0
+24,Male,United States,0,1,1,Sometimes,26-100,1,1,0,0,0,0,0,,0,0,0,1,1,1,0,0
+26,Male,United States,0,0,0,Unknown,26-100,0,0,0,0,0,0,1,,0,0,0,1,0,1,0,0
+33,Male,Canada,0,1,1,Often,6-25,1,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+44,Male,United States,0,1,1,Sometimes,More than 1000,0,0,1,0,0,0,0,,1,0,0,0,0,0,0,1
+26,Female,Poland,0,0,1,Sometimes,26-100,1,1,0,0,1,1,1,,0,0,1,1,0,1,1,0
+27,Male,United Kingdom,0,0,0,Never,100-500,0,1,1,0,0,1,0,,0,0,1,1,0,0,1,0
+26,Male,France,0,0,0,Unknown,26-100,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,1
+35,Male,Canada,0,0,0,Sometimes,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+40,Male,United States,0,1,0,Sometimes,More than 1000,1,1,1,1,1,1,0,,1,0,0,0,0,0,0,1
+23,Female,Australia,0,1,1,Often,1-5,1,1,0,0,0,0,0,,0,0,0,1,0,0,1,0
+36,Male,United States,0,0,0,Sometimes,100-500,1,1,1,0,0,1,0,,0,0,0,0,0,1,1,0
+31,Female,United States,0,0,0,Unknown,26-100,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+34,Male,United States,1,0,0,Rarely,1-5,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+28,Male,France,0,0,0,Never,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+34,Male,Canada,0,0,0,Never,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+23,Other,United States,0,0,0,Rarely,More than 1000,0,1,1,1,0,0,1,,0,0,1,1,0,0,0,0
+38,Male,United Kingdom,0,0,0,Unknown,26-100,0,1,0,0,0,0,1,,0,0,0,1,0,1,1,0
+33,Male,United States,0,0,0,Never,More than 1000,0,1,0,0,1,0,0,,0,0,0,0,0,0,1,0
+19,Male,United Kingdom,0,0,0,Unknown,1-5,0,1,0,1,0,0,0,,1,0,0,0,0,0,0,0
+25,Male,United States,0,0,0,Unknown,More than 1000,1,1,1,1,1,1,0,,0,0,1,1,0,1,1,0
+31,Male,United States,1,1,0,Sometimes,1-5,1,1,0,0,0,0,1,,0,0,1,1,0,0,1,0
+32,Male,United States,0,1,1,Sometimes,26-100,1,1,0,0,0,0,0,,1,0,0,0,0,1,0,0
+28,Male,Germany,0,0,0,Never,6-25,1,1,0,0,0,0,0,,0,0,0,0,0,1,1,0
+38,Male,United States,0,1,0,Sometimes,100-500,1,1,1,1,0,1,0,,0,0,1,0,0,0,1,0
+23,Male,United Kingdom,0,0,0,Never,26-100,0,1,1,0,1,0,0,,0,0,0,1,0,0,1,0
+30,Male,Canada,0,0,0,Never,26-100,0,0,0,0,0,0,0,,0,0,0,1,0,0,0,0
+27,Female,United States,1,0,1,Often,1-5,1,1,1,1,1,1,1,,0,0,0,1,0,0,1,0
+33,Male,United States,0,1,0,Never,More than 1000,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+31,Male,United States,0,0,0,Unknown,26-100,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+39,Male,United Kingdom,1,0,1,Often,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,1
+34,Female,United States,0,1,1,Rarely,500-1000,1,1,1,0,0,0,0,,1,0,0,0,0,0,0,0
+29,Female,United States,0,0,1,Sometimes,26-100,0,1,1,1,0,0,0,,0,0,0,0,0,0,0,1
+32,Male,United States,0,0,0,Unknown,500-1000,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+31,Male,United States,0,0,0,Never,500-1000,0,1,1,1,1,1,1,,0,0,0,1,0,0,1,0
+40,Male,United States,0,0,1,Sometimes,26-100,0,1,0,1,0,0,1,,0,0,1,1,1,1,0,0
+34,Male,United States,0,0,0,Unknown,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+18,Other,Russia,0,0,0,Unknown,26-100,1,1,1,1,0,0,1,,0,0,1,1,1,1,0,0
+25,Female,Canada,0,0,1,Sometimes,26-100,0,1,1,1,0,0,0,,0,0,0,1,0,0,0,0
+29,Male,United States,0,0,0,Never,26-100,0,1,0,0,0,0,0,,0,0,1,1,0,0,0,0
+24,Male,United States,0,1,0,Rarely,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+31,Male,Mexico,0,1,1,Sometimes,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,1,0,0
+33,Male,United States,0,0,1,Sometimes,6-25,0,1,0,1,0,0,0,,0,0,0,0,0,0,0,0
+30,Male,United States,0,0,1,Often,1-5,0,1,0,1,0,0,1,,0,0,1,1,0,0,1,0
+26,Female,Canada,0,1,1,Sometimes,26-100,0,0,0,1,0,0,0,,1,0,0,0,0,0,0,1
+44,Female,United States,0,0,0,Never,100-500,0,1,1,0,0,0,0,,0,0,0,0,0,0,0,0
+25,Male,United States,0,1,0,Unknown,26-100,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+33,Male,United States,0,1,1,Sometimes,26-100,1,1,1,1,1,1,1,,0,0,0,1,0,0,1,0
+29,Male,United States,0,0,0,Never,More than 1000,0,1,1,0,1,0,0,,0,0,0,1,0,0,0,0
+35,Male,United States,0,1,0,Rarely,6-25,0,1,1,0,0,0,1,,0,0,0,1,0,0,0,0
+35,Male,United States,0,1,1,Sometimes,26-100,1,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+28,Male,Brazil,0,1,1,Rarely,6-25,0,1,0,0,0,0,0,,0,0,1,1,0,0,0,1
+34,Male,United States,0,1,0,Never,6-25,1,1,1,0,0,0,0,,0,0,0,0,0,0,0,0
+32,Male,United States,0,0,1,Sometimes,26-100,0,1,1,0,1,1,1,,0,0,0,1,0,0,1,0
+22,Male,United States,0,0,1,Sometimes,500-1000,0,1,1,1,0,0,1,,1,0,0,0,0,1,0,0
+28,Male,United States,0,0,1,Sometimes,26-100,0,1,1,1,1,1,1,,0,0,0,0,0,0,1,0
+45,Male,United States,0,1,1,Rarely,6-25,1,1,1,1,0,1,1,,0,0,1,1,1,1,1,0
+32,Male,United States,0,0,0,Never,100-500,0,1,1,1,0,0,0,,0,0,0,0,0,0,0,0
+28,Male,United States,0,0,0,Unknown,More than 1000,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+26,Male,United Kingdom,0,0,0,Never,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,1
+21,Male,United Kingdom,1,0,0,Often,1-5,1,0,0,1,0,0,1,,1,0,0,1,0,0,0,0
+27,Male,Canada,0,0,0,Rarely,6-25,0,0,1,1,1,1,1,,0,0,0,1,0,0,0,0
+18,Male,United States,0,0,1,Rarely,1-5,1,1,0,0,0,0,1,,0,0,0,0,0,0,0,0
+35,Male,United States,0,0,0,Unknown,26-100,1,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+29,Male,United States,0,0,0,Never,More than 1000,0,1,1,1,0,1,0,,1,1,0,0,0,0,0,0
+25,Male,United States,0,0,0,Unknown,26-100,1,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+33,Male,United States,0,1,1,Sometimes,6-25,1,1,0,0,0,0,1,,0,0,1,1,0,0,1,0
+36,Male,United States,0,0,0,Often,6-25,0,1,1,0,0,0,1,,0,0,0,0,0,0,0,0
+27,Male,Canada,0,0,1,Never,100-500,0,0,1,0,0,0,0,,0,0,0,1,0,0,0,1
+27,Male,United States,0,1,0,Never,500-1000,0,1,1,0,1,1,1,,1,0,0,0,0,1,0,0
+27,Male,United Kingdom,0,0,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+32,Male,United States,0,0,1,Rarely,100-500,0,1,1,1,0,1,1,,1,0,0,1,0,0,0,0
+31,Male,United Kingdom,0,1,0,Sometimes,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,1,0
+19,Male,Slovenia,0,0,1,Sometimes,6-25,0,1,0,0,0,0,0,,1,1,0,0,0,0,0,0
+33,Male,United States,0,1,1,Sometimes,More than 1000,0,1,1,1,0,0,0,,0,0,1,0,0,1,0,0
+32,Male,United States,0,0,0,Rarely,1-5,1,1,0,1,0,0,0,,0,0,1,0,0,1,0,0
+27,Male,United States,0,0,0,Never,26-100,0,1,0,0,0,0,0,,0,0,1,1,0,0,0,0
+38,Male,Costa Rica,0,0,0,Unknown,26-100,1,1,0,1,0,0,1,,0,0,1,1,0,1,0,0
+24,Male,Canada,0,0,1,Never,26-100,0,1,0,0,0,0,0,,0,0,0,1,0,1,0,0
+39,Male,United Kingdom,0,0,0,Never,26-100,0,0,0,0,0,0,0,,1,0,0,0,0,0,0,0
+28,Male,United Kingdom,0,0,0,Never,6-25,0,1,0,0,0,0,1,,0,0,0,1,0,0,1,0
+39,Male,United States,0,0,1,Often,More than 1000,0,1,1,0,0,0,0,,0,0,1,1,0,0,0,0
+29,Female,United States,0,0,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+22,Male,Austria,0,0,0,Unknown,6-25,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+38,Male,United States,0,1,1,Sometimes,100-500,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+37,Male,United Kingdom,1,0,1,Sometimes,More than 1000,0,0,0,1,1,1,1,,1,1,0,0,0,0,1,0
+35,Male,United States,0,0,0,Never,26-100,1,0,0,0,0,0,0,,1,0,0,0,0,0,0,0
+,Male,United States,0,0,0,Unknown,More than 1000,1,0,1,0,0,1,0,,0,0,0,1,0,0,0,0
+30,Female,United States,0,1,0,Unknown,More than 1000,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+37,Male,United States,0,1,1,Rarely,100-500,0,0,1,1,1,1,0,,0,0,0,1,0,0,0,0
+24,Male,United Kingdom,0,0,0,Never,6-25,0,1,0,0,0,0,1,,0,0,0,0,0,0,0,0
+23,Male,United States,0,0,0,Sometimes,6-25,0,0,0,0,0,0,0,,1,1,0,0,0,0,0,0
+30,Male,Ireland,0,0,1,Rarely,100-500,0,1,0,1,1,1,0,,1,0,0,0,0,0,0,1
+29,Female,United States,0,0,0,Unknown,100-500,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+19,Male,Canada,1,1,0,Unknown,1-5,1,1,0,0,0,1,1,,0,0,0,0,0,0,0,0
+32,Male,United States,0,1,0,Never,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+28,Male,Poland,0,0,0,Rarely,6-25,1,1,0,0,0,0,0,,0,0,1,1,0,1,1,0
+36,Male,United States,0,0,0,Never,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+37,Male,United Kingdom,0,1,1,Rarely,More than 1000,0,0,1,1,1,1,1,,1,0,0,0,0,1,0,1
+25,Male,United States,0,1,1,Sometimes,26-100,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+27,Male,United States,0,1,1,Sometimes,More than 1000,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+26,Male,United States,0,0,0,Often,26-100,0,0,0,0,0,0,0,,1,0,0,1,0,0,0,0
+27,Male,United States,0,0,1,Rarely,26-100,1,1,0,1,0,0,0,,0,0,0,1,0,0,0,1
+25,Male,United States,0,1,1,Sometimes,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,1
+36,Male,United Kingdom,0,0,1,Sometimes,More than 1000,0,0,1,1,1,1,1,,0,0,0,0,0,0,0,1
+25,Female,United States,0,1,1,Sometimes,500-1000,0,1,1,0,0,0,0,,1,1,0,0,0,0,0,0
+31,Male,United States,0,0,0,Never,More than 1000,0,1,1,0,0,1,0,,0,0,0,0,0,0,0,0
+26,Male,United States,0,1,0,Rarely,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+33,Female,United States,1,1,1,Sometimes,1-5,0,1,0,1,1,1,1,,0,0,0,1,0,1,1,0
+27,Female,United Kingdom,1,1,0,Unknown,1-5,1,1,0,1,0,0,1,,0,0,1,1,0,0,1,0
+34,Male,United States,0,0,0,Never,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+42,Male,United States,0,0,0,Unknown,6-25,0,1,0,1,0,0,0,,0,0,1,1,0,0,0,0
+23,Male,Ireland,1,1,0,Sometimes,1-5,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+24,Male,United Kingdom,0,0,0,Rarely,100-500,0,1,0,0,1,0,0,,0,0,0,0,0,0,0,0
+26,Male,United Kingdom,0,0,1,Sometimes,More than 1000,0,1,1,1,0,0,1,,0,0,1,1,0,0,0,0
+31,Male,United Kingdom,1,0,1,Often,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+22,Male,India,0,0,1,Never,More than 1000,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+23,Female,United States,0,0,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,0,1,0
+34,Female,Canada,0,1,1,Sometimes,More than 1000,0,0,1,1,1,0,0,,0,0,0,1,0,0,0,0
+31,Male,United States,0,0,0,Never,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+28,Male,United Kingdom,0,0,0,Unknown,100-500,0,0,0,0,0,1,1,,0,0,0,0,0,0,1,0
+32,Female,United States,0,0,1,Often,6-25,1,1,1,0,0,0,1,,0,0,1,1,0,0,1,1
+45,Female,United States,0,0,1,Sometimes,1-5,0,1,1,0,0,0,1,,0,0,1,1,0,0,1,0
+33,Male,United States,0,0,0,Unknown,6-25,1,1,0,0,0,0,0,,0,0,1,1,0,0,0,0
+29,Male,Mexico,0,0,0,Never,6-25,1,1,0,0,0,0,0,,0,0,0,1,0,1,0,0
+26,Female,India,1,0,0,Sometimes,6-25,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+28,Female,United Kingdom,0,0,0,Never,26-100,0,1,0,0,0,0,1,,0,0,1,1,0,0,0,0
+45,Male,United States,0,0,1,Sometimes,More than 1000,0,1,0,0,0,0,0,,1,1,0,0,0,0,0,0
+43,Male,United States,0,1,1,Often,More than 1000,1,1,1,0,0,0,0,,1,0,0,0,0,0,0,0
+37,Male,United States,0,0,0,Unknown,500-1000,1,1,1,0,0,0,0,,1,0,0,0,0,1,0,0
+24,Male,United Kingdom,0,0,0,Sometimes,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,1,1,0
+26,Male,France,0,0,0,Unknown,6-25,1,1,0,1,0,0,0,,0,0,0,0,0,0,1,0
+23,Male,United Kingdom,0,1,0,Unknown,1-5,1,1,0,0,0,0,0,,0,0,0,1,0,1,0,0
+35,Female,United States,0,1,1,Never,More than 1000,0,1,1,0,0,0,1,,0,0,0,0,0,0,0,0
+38,Female,South Africa,1,1,1,Often,1-5,1,1,0,1,0,0,1,,0,0,0,0,0,0,0,1
+28,Male,United States,0,1,1,Sometimes,26-100,0,1,1,0,0,0,0,,0,0,0,0,0,0,0,0
+28,Male,Russia,0,0,0,Sometimes,26-100,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+35,Male,United States,0,0,1,Rarely,6-25,0,1,0,0,0,0,1,,0,0,0,1,0,0,0,0
+32,Female,Germany,0,0,0,Sometimes,100-500,0,1,0,0,0,0,0,,1,1,0,0,0,0,0,1
+31,Male,Italy,1,1,0,Never,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+35,Female,United States,0,0,0,Never,500-1000,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+26,Male,United States,0,0,0,Rarely,More than 1000,0,1,1,0,0,0,1,,0,0,0,1,0,0,0,0
+27,Male,United States,0,1,0,Unknown,6-25,1,1,1,1,0,0,0,,0,0,0,0,0,0,1,0
+28,Male,United Kingdom,0,1,1,Sometimes,More than 1000,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+27,Female,United States,0,1,1,Sometimes,26-100,0,1,1,0,0,0,0,,0,0,0,0,0,0,1,0
+34,Female,United States,0,0,1,Sometimes,500-1000,0,0,1,1,1,1,1,,0,0,0,1,0,0,1,0
+41,Male,United States,0,0,1,Often,6-25,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+37,Male,Ireland,0,0,0,Sometimes,1-5,0,1,0,1,0,0,0,,1,0,0,0,0,1,0,0
+34,Male,Austria,0,1,0,Unknown,100-500,1,1,0,0,0,0,0,,0,0,1,1,0,0,1,0
+32,Male,United Kingdom,0,1,1,Sometimes,100-500,1,1,0,0,0,0,0,,1,0,0,0,0,0,0,1
+21,Male,Canada,0,0,1,Sometimes,6-25,1,1,0,1,0,0,0,,0,0,0,0,0,0,1,0
+30,Male,United States,0,0,1,Often,26-100,0,1,0,1,0,0,1,,0,0,1,1,0,0,0,0
+24,Male,United States,0,0,0,Never,26-100,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+26,Male,Bulgaria,0,0,0,Unknown,100-500,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+40,Female,United States,0,0,0,Unknown,26-100,0,1,1,1,1,1,1,,0,0,0,1,0,0,1,0
+37,Male,United Kingdom,0,1,0,Sometimes,26-100,0,0,0,0,0,0,0,,1,0,0,1,0,0,0,0
+26,Male,United Kingdom,1,0,1,Often,1-5,1,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+32,Female,United States,0,1,1,Sometimes,6-25,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,1
+32,Female,United States,0,0,1,Sometimes,100-500,0,0,1,1,0,0,1,,0,0,1,1,0,1,1,0
+27,Female,United States,1,1,1,Sometimes,1-5,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+30,Male,Germany,1,0,1,Often,6-25,1,1,1,1,0,0,1,,0,0,0,1,0,1,1,0
+31,Male,Canada,1,0,0,Unknown,6-25,0,1,1,1,0,0,1,,0,0,0,0,0,0,1,0
+29,Female,United States,0,0,1,Never,500-1000,0,0,1,0,0,0,0,,0,0,0,0,0,0,0,0
+41,Male,United States,0,0,0,Unknown,26-100,0,1,1,0,0,0,0,,1,0,0,0,0,0,0,0
+34,Female,United States,0,0,0,Unknown,6-25,0,1,1,0,0,0,0,,0,0,1,1,0,0,1,0
+33,Male,United Kingdom,0,0,0,Unknown,26-100,0,1,0,0,0,0,0,,0,0,1,1,1,1,0,0
+28,Male,United States,0,0,0,Rarely,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+28,Male,United States,0,0,1,Sometimes,More than 1000,0,1,0,1,0,0,1,,1,0,0,0,0,0,0,0
+23,Male,United States,0,0,0,Never,26-100,0,1,0,0,0,0,0,,0,0,0,1,0,1,1,0
+24,Male,United States,0,0,0,Unknown,1-5,0,1,0,0,0,0,1,,0,0,1,1,0,1,1,0
+32,Male,United States,0,0,0,Rarely,1-5,1,1,0,1,0,0,0,,0,0,0,1,0,0,1,0
+34,Male,Australia,1,0,0,Sometimes,1-5,1,1,0,0,1,1,0,,1,1,0,0,0,0,1,0
+24,Male,United States,0,0,0,Never,6-25,0,1,1,0,0,0,0,,0,0,0,0,0,0,1,0
+26,Male,United Kingdom,1,0,1,Sometimes,1-5,0,1,0,1,0,0,0,,0,0,0,0,0,0,1,0
+36,Male,United States,0,0,1,Sometimes,26-100,0,1,1,0,0,1,0,,0,0,0,0,0,0,0,1
+41,Male,United States,0,0,1,Rarely,500-1000,1,1,1,1,0,0,0,,0,0,0,0,0,0,0,0
+38,Male,United Kingdom,0,0,1,Sometimes,More than 1000,0,0,0,0,0,0,0,,1,0,0,0,0,0,0,0
+38,Male,United States,0,0,0,Sometimes,26-100,1,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+30,Male,Netherlands,0,0,0,Unknown,26-100,0,1,0,0,0,0,1,,0,0,0,0,0,0,1,0
+25,Male,United Kingdom,0,0,0,Never,26-100,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+37,Male,Canada,0,1,1,Often,26-100,0,1,1,1,0,0,0,,0,0,0,0,0,1,0,0
+34,Male,United Kingdom,0,1,0,Unknown,6-25,0,1,0,0,0,0,1,,0,0,0,1,0,1,0,1
+37,Female,United States,0,1,1,Sometimes,More than 1000,0,0,1,1,1,1,1,,0,0,0,0,0,0,1,0
+28,Female,Canada,0,1,1,Sometimes,6-25,0,0,1,1,1,1,1,,0,0,0,1,0,0,0,1
+22,Male,Sweden,0,0,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+34,Male,United States,0,1,1,Sometimes,1-5,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,1
+33,Male,United States,0,1,1,Sometimes,26-100,0,1,1,1,1,1,1,,0,0,0,1,0,0,0,0
+25,Male,South Africa,0,0,0,Unknown,6-25,0,1,0,0,0,0,1,,0,0,0,1,0,1,0,0
+27,Male,United States,0,0,0,Never,More than 1000,1,1,1,1,0,0,1,,0,0,0,1,0,0,1,0
+40,Male,United States,0,0,1,Sometimes,More than 1000,1,1,1,1,1,1,1,,1,0,0,0,0,0,0,1
+21,Male,United States,0,0,1,Often,6-25,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+29,Male,United Kingdom,0,0,0,Unknown,6-25,0,0,0,0,0,0,1,,0,0,1,1,0,1,1,0
+32,Male,United States,0,1,1,Sometimes,1-5,1,1,0,0,0,0,0,,0,0,1,1,0,1,0,0
+29,Female,United States,0,1,1,Rarely,500-1000,1,0,1,1,1,0,1,,0,0,0,0,0,1,0,0
+23,Male,United States,0,1,1,Sometimes,26-100,1,0,0,0,0,0,1,,0,0,0,0,0,1,1,0
+28,Male,United States,0,1,0,Unknown,100-500,0,1,1,0,0,0,1,,0,0,0,1,0,0,1,1
+31,Male,United States,0,1,1,Rarely,100-500,1,1,1,1,1,0,1,,0,0,0,1,0,0,1,0
+27,Male,United Kingdom,0,0,0,Unknown,100-500,0,0,0,0,0,0,0,,0,0,1,1,0,0,0,0
+24,Male,United States,0,0,0,Sometimes,6-25,0,1,0,0,0,0,0,,0,0,1,1,0,0,0,0
+29,Male,Canada,0,0,0,Often,6-25,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+23,Female,United Kingdom,0,0,1,Sometimes,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,1,0
+42,Male,United States,0,0,0,Never,6-25,1,1,0,1,0,1,0,,0,0,0,1,0,0,1,0
+24,Male,United Kingdom,0,0,0,Unknown,1-5,0,1,0,0,0,0,0,,1,0,0,0,0,1,0,0
+25,Male,Australia,0,1,1,Often,6-25,0,1,0,1,0,0,0,,1,0,0,0,0,1,0,1
+27,Female,United States,0,0,1,Rarely,6-25,0,1,1,0,0,0,1,,0,0,1,0,0,0,0,0
+27,Male,Canada,0,0,0,Sometimes,6-25,1,1,0,1,0,0,0,,1,1,0,0,0,0,0,0
+30,Male,United States,0,0,1,Sometimes,100-500,1,1,1,1,0,1,1,,0,0,1,1,0,0,1,0
+29,Male,Poland,0,1,1,Rarely,6-25,0,1,0,1,0,0,1,,0,0,0,0,0,1,0,0
+43,Male,Canada,1,0,0,Unknown,6-25,1,1,0,0,0,0,0,,0,0,1,1,1,1,0,0
+32,Male,United States,0,0,0,Unknown,6-25,0,1,0,1,0,0,0,,0,0,0,1,0,0,0,0
+41,Male,United States,0,0,1,Sometimes,26-100,1,1,1,1,0,0,0,,0,0,1,1,1,1,1,0
+32,Male,United Kingdom,1,1,1,Sometimes,1-5,1,1,0,0,0,0,0,,0,0,1,0,0,0,0,1
+37,Female,United States,0,1,1,Often,26-100,0,1,1,1,0,0,1,,0,0,0,0,0,1,0,0
+32,Male,United States,0,0,0,Never,6-25,1,1,0,0,0,0,0,,0,0,1,1,0,0,0,0
+30,Male,Ireland,1,0,0,Sometimes,1-5,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+23,Female,United States,0,1,1,Never,100-500,0,0,1,0,0,0,1,,0,0,0,1,0,0,1,0
+30,Male,United States,0,0,0,Unknown,More than 1000,0,1,1,1,1,1,1,,0,0,0,1,0,0,1,0
+34,Male,United Kingdom,0,0,0,Sometimes,26-100,0,1,0,1,0,0,0,,0,0,1,0,0,0,0,0
+38,Male,United States,0,0,1,Rarely,26-100,1,1,1,0,0,0,0,,1,0,0,0,0,0,0,0
+33,Male,Canada,0,0,0,Unknown,100-500,0,1,1,0,1,1,1,,0,0,0,1,0,0,0,0
+34,Male,United States,0,0,0,Unknown,26-100,0,0,1,0,0,0,0,,0,0,0,0,0,0,0,0
+28,Male,Colombia,0,0,0,Sometimes,6-25,0,1,0,1,0,0,0,,0,0,0,0,0,0,0,0
+28,Male,United States,0,0,1,Rarely,100-500,0,0,1,1,1,0,0,,0,0,0,0,0,0,1,0
+23,Male,United States,0,1,0,Sometimes,100-500,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+22,Male,Australia,1,1,1,Sometimes,6-25,1,1,0,0,1,1,0,,0,0,0,1,0,1,0,1
+27,Male,Portugal,0,0,0,Never,6-25,0,1,0,0,0,0,1,,1,0,0,0,0,0,0,0
+18,Male,United States,0,0,1,Sometimes,6-25,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+35,Male,United States,0,1,1,Sometimes,26-100,0,1,1,1,0,0,1,,1,0,0,0,0,0,0,0
+25,Male,Canada,0,0,0,Unknown,100-500,0,0,0,0,0,0,0,,0,0,0,0,0,1,0,0
+27,Male,United Kingdom,0,1,1,Sometimes,6-25,0,1,0,0,0,0,1,,0,0,1,1,1,1,1,0
+26,Female,United States,0,1,1,Rarely,More than 1000,0,1,1,0,0,0,0,,0,0,0,0,0,0,0,0
+18,Male,United States,0,0,0,Never,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,1,0
+38,Female,United States,0,0,1,Sometimes,1-5,0,1,0,1,0,0,0,,0,0,0,0,0,0,0,1
+26,Female,United States,0,1,1,Rarely,More than 1000,1,1,1,1,1,0,0,,0,0,0,0,0,0,0,0
+30,Male,Switzerland,1,0,0,Never,1-5,0,1,0,0,0,0,0,,0,0,1,1,0,0,1,0
+35,Male,United States,0,0,0,Never,More than 1000,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+45,Male,United States,0,1,1,Sometimes,More than 1000,0,1,1,1,0,0,1,,0,0,0,0,0,0,0,0
+32,Male,United States,0,0,0,Never,More than 1000,0,1,1,0,0,0,0,,0,0,0,0,0,0,0,0
+56,Male,United States,0,0,1,Never,More than 1000,0,1,1,0,0,0,0,,0,0,1,0,0,0,0,0
+24,Female,United States,0,0,0,Unknown,500-1000,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+30,Female,United States,0,1,1,Sometimes,26-100,0,1,1,1,1,0,0,,0,0,1,1,0,1,1,0
+60,Male,United States,0,0,0,Unknown,More than 1000,0,1,1,0,0,1,0,,0,0,0,1,0,0,1,0
+33,Male,United States,0,1,1,Sometimes,More than 1000,0,1,1,0,1,1,0,,1,0,0,0,0,0,0,0
+37,Male,United States,0,0,0,Never,More than 1000,0,1,1,1,1,1,0,,0,0,0,1,0,0,0,0
+23,Female,United States,0,0,1,Sometimes,More than 1000,0,1,1,1,1,1,0,,0,0,0,0,0,0,1,0
+31,Female,United States,0,0,1,Sometimes,More than 1000,0,1,1,0,0,0,1,,0,0,1,1,0,0,1,0
+26,Male,United States,0,0,0,Rarely,100-500,0,1,1,0,0,0,0,,0,0,0,1,0,0,0,0
+28,Female,United States,0,1,1,Often,100-500,1,0,1,1,1,1,1,,1,0,0,1,0,0,1,0
+37,Female,United States,0,0,1,Rarely,More than 1000,0,1,1,1,0,1,0,,0,0,0,1,0,0,1,0
+26,Male,Canada,0,1,1,Often,6-25,0,1,1,0,0,0,0,,0,0,0,0,0,0,1,0
+30,Other,United States,0,1,1,Rarely,26-100,0,1,1,0,0,0,0,,0,0,0,1,0,0,0,0
+26,Male,United States,0,0,0,Unknown,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,1
+25,Male,United States,0,0,0,Unknown,26-100,1,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+27,Male,United States,0,0,0,Sometimes,100-500,0,1,1,0,1,1,0,,0,0,0,1,0,0,0,0
+25,Male,Canada,0,0,1,Often,6-25,1,0,0,0,0,0,0,,1,0,0,0,0,0,0,0
+35,Male,United States,0,0,1,Rarely,100-500,0,1,1,0,0,1,0,,0,0,0,1,0,0,0,0
+36,Male,United States,1,0,1,Never,1-5,0,1,0,1,0,0,0,,0,0,0,1,0,0,1,0
+26,Male,United States,0,1,1,Sometimes,More than 1000,0,1,1,0,0,0,0,,1,0,0,0,0,0,0,0
+27,Male,United States,0,1,0,Unknown,More than 1000,0,1,0,0,0,0,0,,0,0,1,1,0,0,1,0
+30,Male,United States,0,0,0,Unknown,6-25,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+29,Male,United States,0,0,0,Unknown,100-500,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+25,Male,United States,0,0,0,Never,More than 1000,0,0,1,1,1,1,1,,0,0,0,1,0,0,1,0
+22,Female,United States,0,1,1,Often,More than 1000,0,1,1,1,1,1,1,,0,0,0,0,0,0,1,1
+29,Male,Latvia,0,0,0,Unknown,26-100,0,1,0,1,0,0,0,,0,0,0,0,0,0,0,0
+41,Male,United States,0,1,1,Rarely,100-500,1,1,1,1,0,1,1,,0,0,0,1,0,0,1,0
+29,Male,United States,0,0,1,Sometimes,More than 1000,0,1,1,0,0,0,0,,1,0,0,0,0,0,0,0
+32,Male,United States,0,0,0,Never,500-1000,0,1,1,0,0,1,1,,0,0,0,1,0,0,1,0
+24,Female,United States,0,1,1,Sometimes,More than 1000,0,1,1,1,0,1,1,,0,0,0,0,0,0,0,0
+25,Male,United States,0,0,1,Rarely,6-25,0,1,1,0,0,0,0,,0,0,0,0,0,0,0,0
+25,Male,United States,0,0,0,Unknown,More than 1000,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+30,Female,United States,0,0,0,Never,More than 1000,0,1,1,1,1,1,1,,0,0,0,0,0,0,0,0
+25,Male,United States,0,1,1,Sometimes,More than 1000,0,1,0,0,0,1,0,,0,0,1,1,0,0,1,0
+30,Male,United States,1,0,0,Never,1-5,1,1,0,1,0,0,0,,0,0,0,0,0,0,0,0
+33,Male,Germany,1,1,1,Rarely,1-5,0,0,0,0,0,0,0,,1,1,0,0,0,0,1,1
+24,Male,United States,0,0,0,Unknown,26-100,0,1,1,0,1,1,1,,0,0,0,0,0,0,1,0
+25,Male,Canada,0,1,1,Sometimes,More than 1000,0,1,1,1,0,0,0,,1,0,0,0,0,0,0,0
+31,Male,United States,0,0,0,Unknown,100-500,0,0,0,0,0,0,1,,0,0,0,0,0,1,0,0
+45,Male,Ireland,1,0,1,Often,1-5,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+29,Male,Romania,0,0,0,Unknown,6-25,1,0,0,1,0,0,0,,0,0,0,0,0,0,0,0
+46,Male,United States,0,0,0,Never,26-100,0,1,1,0,1,0,0,,0,0,0,0,0,0,0,0
+30,Male,United Kingdom,0,0,1,Sometimes,26-100,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+29,Female,United States,1,0,0,Sometimes,More than 1000,0,1,1,0,0,0,0,,0,0,0,0,0,0,0,0
+24,Male,United States,0,0,0,Unknown,More than 1000,0,1,1,1,0,0,1,,1,0,0,0,0,0,0,0
+29,Male,United States,0,0,0,Unknown,26-100,0,1,1,1,1,1,1,,0,0,0,1,0,0,1,0
+35,Male,United States,0,0,0,Unknown,26-100,0,0,0,0,0,0,0,,0,0,1,1,0,0,0,0
+33,Female,United States,0,1,0,Sometimes,26-100,1,1,0,1,0,0,0,,1,0,0,0,0,0,0,0
+27,Male,United States,0,0,0,Sometimes,More than 1000,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+36,Male,United States,0,0,0,Unknown,More than 1000,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+33,Male,United Kingdom,0,0,0,Rarely,1-5,1,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+25,Female,United States,0,1,1,Sometimes,26-100,0,1,1,1,0,0,1,,0,0,0,1,0,0,0,0
+23,Male,United States,0,1,1,Sometimes,100-500,0,0,0,0,0,0,0,,0,0,1,1,0,1,0,0
+54,Male,United States,0,1,1,Never,More than 1000,0,1,0,0,1,1,0,,0,0,0,1,0,0,0,0
+22,Male,United States,0,0,0,Sometimes,More than 1000,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+25,Other,United States,0,1,1,Sometimes,More than 1000,0,1,1,1,0,0,0,,0,0,0,0,0,0,1,0
+29,Male,Belgium,0,0,0,Often,6-25,0,0,0,0,0,0,0,,0,0,1,1,0,0,0,0
+27,Male,United States,0,0,1,Sometimes,More than 1000,0,1,1,1,1,1,1,,0,0,0,0,0,1,1,0
+30,Male,United Kingdom,0,0,0,Never,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,0,1,0
+26,Male,United States,0,1,1,Often,More than 1000,0,1,1,0,0,1,0,,0,0,0,0,0,0,0,0
+25,Female,Sweden,0,1,0,Sometimes,6-25,0,1,1,1,1,0,0,,0,0,0,1,0,0,0,0
+31,Male,United States,0,0,1,Sometimes,500-1000,0,0,0,1,0,0,1,,0,0,0,0,0,0,0,0
+33,Male,United States,0,1,1,Sometimes,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+34,Male,United States,0,1,1,Sometimes,More than 1000,0,1,1,1,0,1,1,,0,0,0,0,0,0,0,0
+34,Male,United States,0,0,1,Sometimes,100-500,1,1,0,0,0,0,0,,1,1,0,0,0,0,0,0
+29,Male,United States,1,0,0,Unknown,1-5,1,1,0,1,0,0,1,,0,0,1,1,0,0,1,0
+33,Female,United States,0,0,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+34,Male,Germany,1,1,1,Rarely,26-100,1,1,0,0,0,0,0,,0,0,1,1,0,0,1,0
+26,Male,United States,1,1,1,Rarely,100-500,1,0,0,0,0,0,0,,0,0,0,1,0,1,0,0
+32,Male,United States,0,1,1,Rarely,More than 1000,0,0,1,1,1,1,1,,0,0,0,1,0,1,1,0
+,Male,United States,0,0,1,Often,6-25,1,1,1,1,0,0,0,,0,0,0,0,0,0,0,0
+28,Male,United States,0,1,1,Sometimes,More than 1000,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+35,Male,United States,0,1,0,Unknown,More than 1000,0,1,1,0,1,1,1,,0,0,0,1,0,0,0,0
+36,Male,United States,0,1,1,Often,100-500,0,1,0,1,0,0,1,,0,0,0,0,0,0,0,0
+21,Male,United States,0,1,1,Rarely,100-500,0,1,1,0,0,0,1,,0,0,1,1,0,0,0,0
+21,Male,United Kingdom,0,0,1,Sometimes,6-25,0,0,0,0,0,0,0,,1,0,0,0,0,0,0,0
+22,Female,United States,0,0,0,Unknown,More than 1000,0,1,1,0,1,1,1,,0,0,0,0,0,0,1,0
+41,Male,United States,0,1,1,Often,More than 1000,0,1,1,0,1,1,0,,0,0,1,0,0,0,0,1
+55,Male,United States,0,1,1,Rarely,More than 1000,0,1,1,1,1,1,1,,0,0,1,1,0,0,1,0
+32,Female,United States,0,0,1,Sometimes,26-100,0,1,1,1,1,1,1,,0,0,0,1,0,0,1,0
+21,Female,United States,0,1,1,Rarely,26-100,0,1,0,0,0,0,0,,1,0,0,0,0,1,0,0
+45,Male,United States,0,0,1,Never,26-100,1,1,1,1,0,0,0,,0,0,0,0,0,0,0,0
+27,Female,United States,0,0,1,Rarely,More than 1000,0,1,1,1,0,0,1,,1,0,0,0,0,0,0,0
+25,Female,United States,0,1,1,Sometimes,26-100,1,1,0,0,0,0,0,,0,0,0,1,0,0,1,0
+34,Female,United States,0,1,1,Rarely,More than 1000,0,0,1,1,1,1,1,,0,0,0,0,0,0,1,0
+26,Female,United States,0,1,1,Never,More than 1000,0,1,1,1,0,1,1,,0,0,0,0,0,0,0,0
+41,Male,Canada,0,0,1,Never,500-1000,0,1,1,0,0,0,0,,0,0,0,0,0,0,0,0
+27,Male,United States,0,0,1,Rarely,More than 1000,0,1,1,0,1,1,1,,0,0,0,1,0,0,1,0
+31,Male,United States,0,1,1,Sometimes,26-100,1,1,1,0,0,0,0,,0,0,1,1,0,0,0,0
+25,Male,Germany,0,1,1,Often,26-100,1,1,0,0,0,0,1,,0,0,1,1,0,1,0,0
+26,Male,United States,0,0,1,Sometimes,6-25,0,1,0,0,0,0,0,,1,1,0,0,0,0,0,0
+27,Female,United States,0,1,1,Rarely,More than 1000,1,1,1,1,0,0,0,,0,0,0,1,0,0,0,0
+42,Male,New Zealand,0,0,0,Never,500-1000,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+29,Other,United States,1,1,1,Sometimes,1-5,1,1,1,1,0,0,0,,1,0,0,0,0,0,0,0
+25,Female,United States,0,0,1,Sometimes,6-25,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+33,Female,Sweden,0,1,1,Rarely,More than 1000,0,1,1,1,0,1,1,,0,0,0,0,0,1,0,0
+,Other,Zimbabwe,1,1,1,Often,1-5,0,1,0,1,0,0,0,,1,1,0,0,1,0,0,1
+40,Female,United States,0,1,1,Rarely,More than 1000,0,0,1,0,0,0,0,,0,0,0,0,0,0,0,0
+31,Male,United States,0,0,0,Never,More than 1000,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+26,Male,Canada,0,1,1,Often,26-100,1,1,0,0,0,0,0,,0,0,1,1,0,0,1,0
+24,Female,United States,0,1,0,Unknown,500-1000,0,0,0,0,0,0,0,,1,0,0,0,0,0,0,1
+29,Male,United States,0,0,0,Never,More than 1000,0,0,1,0,0,0,0,,0,0,0,0,0,0,0,0
+48,Male,United Kingdom,0,0,0,Unknown,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+35,Male,United Kingdom,0,0,0,Sometimes,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,1
+32,Female,United States,0,0,0,Never,100-500,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+29,Male,Canada,0,0,1,Sometimes,100-500,0,1,0,0,0,0,1,,0,0,0,0,0,0,1,0
+26,Male,United States,0,1,1,Often,6-25,0,1,1,1,0,0,0,,0,0,0,1,0,0,0,0
+28,Male,United States,0,1,1,Sometimes,26-100,0,1,1,1,0,0,0,,0,0,0,0,0,0,0,0
+23,Male,United States,0,0,0,Unknown,More than 1000,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+35,Male,United States,0,1,1,Sometimes,100-500,0,1,1,1,0,0,0,,0,0,0,0,0,0,0,1
+29,Male,Germany,0,1,1,Sometimes,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+26,Male,United States,0,1,0,Unknown,6-25,0,1,1,1,0,1,1,,0,0,0,1,0,0,0,0
+33,Male,United States,0,1,1,Never,26-100,1,1,1,1,1,1,0,,1,0,1,0,0,0,1,0
+33,Male,United States,0,0,0,Unknown,More than 1000,1,1,0,0,0,0,0,,1,0,0,0,0,0,1,0
+22,Male,Brazil,1,0,0,Never,6-25,1,1,0,0,0,0,0,,0,0,1,1,0,0,0,0
+30,Female,Spain,0,1,0,Unknown,500-1000,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+33,Male,United States,0,1,1,Often,More than 1000,1,1,1,1,0,0,0,,1,0,0,0,0,0,0,0
+31,Female,United States,0,1,1,Rarely,More than 1000,0,0,0,0,0,0,0,,1,0,0,0,0,0,0,0
+21,Male,United States,0,1,0,Never,More than 1000,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,1
+31,Other,United Kingdom,0,1,1,Sometimes,More than 1000,0,1,0,0,0,0,0,,1,0,0,0,0,1,1,0
+26,Female,United States,0,0,1,Sometimes,100-500,1,1,0,0,0,0,0,,0,0,0,0,0,0,1,0
+30,Male,United States,0,1,0,Often,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+30,Other,Germany,0,1,1,Sometimes,100-500,0,1,0,0,0,0,0,,0,0,1,1,0,0,0,0
+23,Male,India,0,0,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+34,Male,Finland,0,0,0,Never,6-25,0,1,0,0,0,0,0,,0,0,1,1,0,0,0,0
+55,Male,United States,0,1,1,Sometimes,1-5,1,1,0,1,0,0,0,,1,0,0,0,0,0,0,1
+28,Male,Germany,0,1,1,Rarely,1-5,1,1,1,0,0,0,1,,0,0,1,1,0,0,1,0
+26,Male,Uruguay,0,0,0,Unknown,26-100,1,1,0,0,0,0,0,,0,0,0,0,0,1,0,0
+28,Male,New Zealand,0,1,1,Sometimes,6-25,1,1,1,1,1,0,0,,0,0,1,1,1,1,1,0
+32,Male,United Kingdom,0,1,1,Sometimes,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+28,Female,United States,0,0,1,Rarely,More than 1000,0,0,1,1,0,0,0,,0,0,0,0,0,0,0,0
+21,Male,United States,0,0,0,Sometimes,6-25,0,0,0,0,0,1,1,,0,0,0,0,0,0,1,0
+24,Male,United States,0,1,1,Sometimes,100-500,0,1,0,1,0,0,0,,1,0,0,0,0,0,0,1
+26,Female,United States,0,0,0,Unknown,More than 1000,0,0,1,0,1,0,0,,0,0,0,0,0,0,0,0
+23,Male,United States,0,0,0,Unknown,More than 1000,0,0,1,0,0,0,0,,0,0,1,0,0,1,0,0
+24,Female,United States,0,0,0,Unknown,More than 1000,0,1,1,1,1,1,1,,0,0,0,0,1,1,1,0
+28,Male,Canada,1,0,0,Never,100-500,1,1,0,0,0,0,0,,0,0,0,1,0,0,1,0
+24,Female,United States,0,1,1,Rarely,6-25,0,1,0,0,0,0,0,,1,0,0,0,0,1,1,0
+33,Male,United States,1,0,1,Often,1-5,1,1,0,0,0,0,1,,1,0,0,0,1,1,0,0
+34,Male,United States,0,0,0,Sometimes,26-100,0,1,0,0,0,0,0,,0,0,1,1,0,0,0,0
+27,Female,United States,0,0,1,Sometimes,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+28,Male,United States,0,0,0,Never,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+26,Male,United States,0,0,0,Unknown,More than 1000,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,1
+20,Male,Australia,0,0,0,Unknown,100-500,1,1,0,0,0,0,1,,0,0,0,1,0,0,0,0
+23,Female,United States,0,0,1,Sometimes,26-100,0,1,1,1,0,0,0,,0,0,0,0,0,0,0,0
+29,Male,United States,0,1,1,Rarely,1-5,1,1,1,1,1,1,1,,0,0,1,1,0,0,1,0
+26,Male,United Kingdom,0,1,0,Sometimes,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+36,Male,United States,0,0,0,Rarely,More than 1000,1,1,1,0,1,0,0,,0,0,0,0,0,0,0,0
+41,Male,United States,0,0,1,Sometimes,More than 1000,0,1,1,1,1,1,1,,0,0,0,1,0,1,1,1
+33,Female,United States,0,0,0,Unknown,100-500,1,1,1,0,0,0,0,,0,0,0,1,0,0,1,0
+23,Male,Canada,0,1,1,Sometimes,6-25,0,1,1,1,0,0,1,,0,0,1,1,0,0,1,0
+39,Male,United States,0,1,0,Often,More than 1000,0,1,1,0,0,0,0,,1,0,0,0,0,0,0,1
+34,Male,United States,0,1,0,Unknown,More than 1000,0,1,1,0,0,0,0,,0,0,0,0,0,0,0,1
+26,Female,United States,0,0,1,Sometimes,100-500,0,1,1,1,0,0,0,,1,0,0,0,0,0,0,1
+24,Male,United States,0,0,1,Rarely,26-100,0,1,1,1,1,0,0,,0,0,0,1,0,0,0,0
+37,Male,Canada,0,1,1,Rarely,More than 1000,0,0,1,1,1,1,0,,0,0,0,0,0,0,0,0
+43,Male,United States,1,1,1,Often,6-25,1,1,1,1,0,0,1,,0,0,1,1,0,0,1,0
+40,Other,United States,0,1,0,Never,More than 1000,0,1,1,1,1,0,1,,1,0,0,0,0,0,1,0
+30,Male,United States,0,1,1,Often,More than 1000,0,1,1,1,1,0,0,,1,0,0,0,0,0,0,1
+34,Male,United States,0,0,1,Sometimes,6-25,0,1,0,0,0,0,0,,1,1,0,0,0,0,0,0
+27,Male,United States,0,1,1,Sometimes,100-500,0,1,0,0,0,0,0,,1,0,0,0,0,1,0,0
+36,Male,United States,0,0,0,Sometimes,More than 1000,0,1,0,0,0,0,1,,0,0,1,1,0,1,0,0
+27,Male,Brazil,0,0,0,Rarely,6-25,0,1,0,1,0,0,0,,0,0,0,0,0,0,0,0
+35,Male,Netherlands,0,1,0,Never,100-500,0,1,1,0,0,0,1,,1,0,0,0,0,0,0,0
+32,Male,United Kingdom,0,0,0,Never,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,1,1,0
+37,Male,United States,0,0,0,Unknown,500-1000,0,1,1,0,0,0,0,,0,0,0,0,0,0,0,0
+29,Male,United Kingdom,0,0,0,Unknown,26-100,0,1,0,0,0,0,0,,0,0,0,1,0,0,1,0
+33,Female,United States,0,0,0,Never,500-1000,0,1,1,0,1,1,0,,0,0,0,1,0,0,1,0
+28,Male,United States,0,0,0,Sometimes,6-25,1,1,0,1,0,0,0,,1,0,0,0,0,0,0,0
+26,Female,United States,0,1,0,Never,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+27,Male,United States,0,1,1,Sometimes,6-25,1,1,0,0,1,0,0,,1,0,0,1,0,0,1,0
+38,Male,United Kingdom,1,0,1,Sometimes,26-100,1,1,0,0,0,0,1,,0,0,0,1,0,0,1,0
+57,Male,United States,0,1,1,Rarely,More than 1000,0,1,1,1,0,0,0,,0,0,0,1,0,0,0,0
+28,Male,United Kingdom,0,0,1,Sometimes,More than 1000,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+26,Male,France,0,0,0,Never,6-25,0,1,0,1,0,0,0,,0,0,1,1,0,0,0,0
+42,Female,Netherlands,0,0,1,Rarely,100-500,1,1,1,1,0,0,1,,1,0,0,0,0,0,0,0
+31,Male,United States,0,0,1,Sometimes,100-500,1,1,1,1,1,1,1,,0,0,0,1,0,0,1,0
+58,Male,United States,0,0,1,Rarely,More than 1000,0,1,1,1,1,1,1,,0,0,0,1,0,1,1,0
+29,Male,United States,0,0,0,Sometimes,6-25,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+39,Female,United Kingdom,0,0,1,Sometimes,More than 1000,0,1,1,1,0,1,0,,1,0,0,0,0,0,0,1
+34,Male,United States,0,0,0,Sometimes,6-25,1,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+57,Male,United States,0,0,1,Sometimes,More than 1000,0,1,1,0,1,1,0,,0,0,0,0,0,0,0,0
+27,Male,Germany,0,1,1,Sometimes,6-25,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,1
+23,Male,Germany,1,1,1,Often,26-100,1,1,0,0,0,0,0,,0,0,1,1,0,1,0,0
+18,Male,Finland,0,0,0,Unknown,500-1000,1,0,0,0,0,0,0,,1,0,0,0,0,0,0,0
+30,Female,United States,0,0,0,Unknown,100-500,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+23,Male,United States,0,0,0,Never,26-100,0,0,0,0,0,0,0,,0,0,1,1,0,1,1,0
+43,Male,United States,0,0,1,Sometimes,More than 1000,0,1,1,1,1,1,1,,1,0,0,0,0,1,0,0
+18,Female,United Kingdom,0,1,1,Sometimes,1-5,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+29,Male,United States,0,0,1,Rarely,6-25,0,1,1,1,0,0,0,,0,0,0,0,0,0,0,0
+48,Male,United States,0,0,0,Never,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+43,Male,Germany,0,0,1,Sometimes,26-100,0,0,0,1,0,0,0,,0,0,0,0,0,1,0,1
+28,Female,United States,0,1,1,Sometimes,26-100,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+30,Male,United States,1,1,1,Often,1-5,1,1,0,1,0,0,1,,0,0,1,1,0,0,1,0
+26,Male,Israel,0,0,0,Sometimes,6-25,0,1,0,0,0,0,1,,0,0,0,1,0,0,1,0
+33,Male,Italy,0,0,0,Never,6-25,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+31,Male,United States,0,0,0,Unknown,More than 1000,0,1,1,0,0,0,1,,0,0,0,0,0,0,1,0
+30,Male,United States,0,0,0,Rarely,100-500,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+27,Male,Israel,0,0,0,Unknown,26-100,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,1
+24,Female,United States,1,1,1,Sometimes,1-5,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,1
+25,Male,United States,0,0,0,Unknown,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+23,Female,United States,0,1,1,Often,More than 1000,0,1,1,0,0,0,0,,0,0,0,0,0,0,1,1
+36,Male,United States,0,0,1,Sometimes,More than 1000,0,0,1,0,0,0,0,,1,0,0,0,0,0,0,1
+25,Female,United States,1,1,1,Often,1-5,1,1,0,0,0,0,1,,1,0,0,0,0,0,0,1
+54,Male,United Kingdom,0,0,1,Sometimes,More than 1000,1,0,0,1,1,1,1,,0,0,1,1,0,0,0,0
+34,Male,Netherlands,0,0,0,Rarely,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,1,0
+38,Female,United States,0,0,1,Unknown,26-100,0,1,1,1,0,0,1,,0,0,0,0,0,0,0,0
+40,Male,Ireland,1,1,0,Unknown,More than 1000,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,1
+32,Male,United Kingdom,0,0,0,Unknown,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+25,Male,Germany,0,0,0,Never,More than 1000,0,0,0,0,0,1,0,,0,0,1,1,0,1,0,0
+35,Female,United States,0,0,1,Sometimes,100-500,0,1,0,1,0,0,0,,1,0,0,0,0,0,0,0
+46,Male,United States,0,0,1,Sometimes,More than 1000,0,1,1,1,1,1,0,,0,0,0,0,0,0,1,0
+42,Male,United States,0,0,0,Never,100-500,0,0,1,0,1,0,0,,0,0,1,1,0,1,0,0
+32,Male,United Kingdom,0,1,1,Sometimes,6-25,1,1,1,0,0,0,0,,0,0,1,1,0,0,1,0
+47,Male,United States,0,1,1,Sometimes,More than 1000,0,1,1,1,1,1,0,,0,0,0,1,0,1,1,0
+22,Male,United States,0,0,0,Unknown,More than 1000,0,1,1,0,1,0,1,,0,0,0,1,0,0,1,0
+33,Female,United States,0,0,1,Sometimes,500-1000,1,1,1,1,1,1,0,,0,0,0,0,0,0,0,0
+25,Female,United States,0,0,0,Sometimes,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,1,0
+29,Male,United States,0,0,0,Unknown,More than 1000,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+39,Male,United States,0,0,0,Never,26-100,0,1,1,1,1,1,1,,0,0,1,1,0,0,1,0
+38,Male,United States,0,1,1,Sometimes,More than 1000,0,1,1,0,1,1,1,,1,0,0,0,0,0,0,0
+43,Male,United States,0,0,0,Unknown,6-25,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+46,Male,United States,0,0,1,Rarely,500-1000,1,1,1,0,1,1,1,,0,0,0,1,0,0,1,0
+38,Female,United States,0,1,1,Sometimes,More than 1000,0,0,1,1,1,1,1,,0,0,1,1,0,0,0,1
+33,Male,Germany,0,0,1,Sometimes,6-25,0,1,1,1,0,0,1,,1,1,0,0,0,0,0,0
+34,Male,United Kingdom,0,1,1,Often,26-100,0,1,0,1,0,0,1,,0,0,1,1,0,0,0,0
+62,Male,United States,0,0,0,Never,More than 1000,0,1,1,1,0,1,0,,0,0,0,1,0,0,1,0
+23,Female,United States,0,0,0,Unknown,More than 1000,0,0,0,0,0,0,1,,0,0,0,0,0,0,0,0
+35,Male,United States,0,0,0,Unknown,More than 1000,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+25,Male,Bosnia and Herzegovina,0,1,0,Rarely,26-100,1,1,0,0,0,0,0,,0,1,0,0,0,0,0,1
+36,Male,United States,1,1,1,Sometimes,1-5,1,1,0,1,0,0,1,,0,0,0,1,0,1,1,0
+41,Female,United States,0,1,1,Rarely,500-1000,1,1,1,1,1,1,1,,0,0,0,0,0,0,1,0
+24,Male,Austria,1,0,0,Sometimes,1-5,0,1,1,1,0,0,1,,0,0,0,0,0,0,1,0
+51,Male,New Zealand,0,0,1,Sometimes,26-100,1,1,0,1,1,0,0,,1,1,0,0,0,0,0,1
+29,Male,United States,0,0,1,Sometimes,6-25,0,1,1,1,0,1,1,,0,0,0,0,0,0,1,0
+31,Female,Canada,1,1,1,Sometimes,100-500,1,1,0,0,0,0,0,,0,0,0,1,0,0,1,0
+27,Male,United Kingdom,0,0,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,1,0,0
+31,Male,Australia,0,0,1,Rarely,100-500,0,1,1,1,1,1,0,,0,0,1,1,1,1,0,0
+27,Female,Hungary,1,1,0,Sometimes,1-5,1,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+23,Male,Sweden,0,0,0,Rarely,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,0,1,0
+21,Male,Canada,0,0,0,Never,26-100,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+27,Female,Australia,0,1,1,Sometimes,6-25,0,1,0,1,0,0,0,,1,0,0,0,0,0,0,0
+39,Male,United States,0,1,1,Often,26-100,1,1,1,1,1,1,0,,1,0,0,1,0,0,0,0
+26,Male,United States,0,1,1,Never,More than 1000,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+27,Male,United Kingdom,0,0,0,Never,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+22,Female,United States,0,1,1,Sometimes,500-1000,0,1,1,1,0,0,0,,0,0,0,0,0,0,0,1
+26,Female,United States,0,1,1,Often,100-500,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+31,Female,United States,0,1,1,Rarely,100-500,0,1,1,1,0,0,1,,0,0,1,1,0,0,1,0
+32,Male,United Kingdom,0,0,0,Never,6-25,0,1,0,0,0,0,0,,0,0,1,1,1,1,1,0
+28,Female,United States,0,1,1,Often,100-500,1,1,1,0,0,0,0,,1,1,0,0,0,0,0,1
+28,Other,United Kingdom,0,1,1,Rarely,100-500,0,1,0,0,0,0,1,,1,1,0,0,1,0,0,1
+23,Female,United Kingdom,0,0,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,1,1,0
+30,Male,United Kingdom,0,0,0,Never,26-100,1,1,0,0,0,0,0,,0,0,1,1,0,0,1,0
+36,Male,United States,0,1,1,Sometimes,More than 1000,0,1,1,0,0,1,0,,1,0,0,1,0,1,0,0
+21,Male,United States,0,1,0,Unknown,More than 1000,0,1,1,1,1,1,1,,0,0,0,1,0,0,1,0
+30,Male,Germany,0,0,0,Often,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,1,0,0
+25,Female,United States,0,1,0,Unknown,500-1000,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+32,Male,New Zealand,0,0,1,Sometimes,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,1,0,0
+29,Female,Canada,0,0,1,Sometimes,1-5,0,1,0,0,0,0,0,,0,0,0,0,0,0,1,0
+21,Other,United Kingdom,0,0,1,Sometimes,26-100,0,1,0,1,1,0,1,,0,0,0,0,0,0,1,0
+27,Female,New Zealand,0,1,1,Rarely,100-500,1,1,0,0,0,0,0,,0,0,0,0,0,1,0,0
+32,Female,Canada,0,0,1,Often,More than 1000,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+34,Male,Australia,0,0,0,Sometimes,More than 1000,0,1,1,1,1,1,1,,0,0,0,1,0,0,1,0
+33,Male,United States,0,0,0,Unknown,26-100,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+22,Male,Netherlands,0,1,1,Sometimes,6-25,1,1,0,0,0,0,0,,0,0,0,1,0,1,1,0
+24,Male,United States,0,0,0,Unknown,More than 1000,0,1,0,0,0,0,0,,0,0,0,0,0,0,1,0
+65,Male,United States,1,0,0,Unknown,6-25,1,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+27,Male,United States,0,1,1,Sometimes,100-500,1,1,0,0,0,0,0,,0,0,0,0,0,0,1,0
+33,Male,Australia,0,0,0,Never,More than 1000,0,1,0,0,0,0,1,,0,0,0,1,0,1,1,0
+36,Male,United States,0,0,1,Rarely,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+40,Male,Canada,0,0,0,Never,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+28,Male,United States,0,0,1,Sometimes,More than 1000,0,1,1,1,0,0,1,,0,0,0,0,0,0,0,0
+39,Male,United States,0,0,1,Sometimes,500-1000,0,1,1,0,1,0,1,,1,0,1,1,0,0,0,0
+32,Male,United States,0,0,1,Sometimes,More than 1000,0,1,1,0,0,1,0,,0,0,1,0,0,1,0,0
+31,Male,United States,0,1,0,Sometimes,More than 1000,0,1,1,0,0,0,0,,0,0,0,0,0,1,0,0
+38,Male,United States,0,1,1,Sometimes,100-500,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+23,Male,United States,0,1,1,Rarely,1-5,0,1,0,1,0,0,0,,0,0,0,1,0,0,1,0
+42,Male,United States,0,0,1,Often,More than 1000,0,1,1,1,1,1,1,,0,0,1,1,0,0,0,0
+27,Female,United States,0,0,0,Sometimes,500-1000,0,1,0,0,0,1,0,,0,0,0,1,0,0,1,0
+26,Female,United States,0,1,1,Sometimes,26-100,0,1,1,1,0,0,1,,0,0,1,1,0,0,0,1
+50,Male,United States,0,0,0,Never,26-100,1,1,0,1,0,0,0,,0,0,0,0,0,0,0,0
+37,Male,United States,0,1,0,Never,26-100,0,1,0,0,0,0,0,,0,0,1,1,0,0,1,0
+23,Male,United States,0,0,0,Unknown,26-100,0,1,0,0,0,0,0,,0,0,1,1,0,0,0,0
+33,Male,United States,0,1,0,Sometimes,6-25,1,1,0,0,0,0,1,,0,0,0,1,0,0,1,0
+29,Male,Canada,1,0,0,Never,26-100,1,1,1,1,0,0,1,,1,0,0,0,0,1,0,0
+34,Male,United States,0,1,1,Sometimes,26-100,1,0,1,0,0,0,0,,0,0,0,0,0,0,0,0
+41,Male,United States,0,1,1,Often,More than 1000,0,1,1,0,0,0,0,,0,0,0,0,0,0,0,1
+50,Male,United States,0,1,0,Unknown,100-500,1,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+29,Male,Canada,0,0,1,Never,More than 1000,0,0,1,0,1,1,1,,0,0,0,0,0,0,0,1
+35,Male,United States,0,0,0,Never,6-25,0,1,0,1,0,0,1,,0,0,0,1,0,0,1,0
+27,Male,Singapore,0,0,0,Sometimes,1-5,1,1,0,0,0,0,1,,1,0,0,1,0,0,0,0
+40,Female,United States,0,0,0,Never,26-100,0,0,0,0,0,0,0,,0,0,1,1,0,0,0,0
+27,Male,Australia,0,0,1,Often,100-500,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,1
+29,Female,United States,0,0,0,Never,26-100,0,1,1,1,1,0,1,,0,0,0,0,0,0,0,1
+31,Male,United States,0,1,1,Sometimes,6-25,0,1,0,0,0,0,0,,0,0,1,1,0,0,0,0
+43,Male,United States,0,0,1,Sometimes,6-25,0,1,0,1,0,0,0,,0,0,1,1,0,0,0,0
+34,Male,United States,0,1,1,Sometimes,26-100,1,1,1,1,0,0,0,,0,0,0,0,0,1,0,1
+29,Male,United States,0,1,1,Sometimes,26-100,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+19,Male,Canada,0,1,1,Sometimes,1-5,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+41,Male,United States,0,1,1,Sometimes,More than 1000,0,1,1,0,1,1,0,,0,0,0,0,0,0,0,0
+29,Male,United States,0,1,0,Never,100-500,0,1,1,1,1,1,0,,0,0,0,1,0,0,1,0
+23,Male,United States,0,0,0,Rarely,100-500,0,1,1,0,0,0,0,,0,0,0,0,0,0,1,0
+24,Female,United States,0,1,1,Sometimes,100-500,0,1,1,0,0,0,0,,1,0,0,0,0,0,0,1
+31,Male,United States,0,0,0,Unknown,26-100,1,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+43,Male,United States,0,0,0,Unknown,500-1000,1,1,0,0,0,0,0,,0,0,1,1,0,0,1,0
+31,Male,United States,0,1,1,Rarely,100-500,0,1,0,0,0,0,0,,1,1,0,0,0,0,0,1
+29,Male,United States,0,1,0,Often,100-500,0,1,1,1,1,1,0,,0,0,0,1,0,0,0,0
+35,Male,United States,1,1,0,Unknown,6-25,1,1,0,0,1,1,0,,0,0,1,1,0,0,1,0
+33,Male,United States,0,1,1,Sometimes,100-500,0,0,1,0,0,0,1,,1,1,0,0,0,0,0,0
+30,Female,United States,1,1,1,Often,1-5,1,0,0,1,0,1,1,,0,0,1,1,0,0,1,0
+27,Male,United States,0,0,0,Unknown,More than 1000,0,1,1,0,0,0,1,,0,0,0,0,0,0,0,0
+32,Male,United States,0,0,0,Sometimes,100-500,0,1,0,1,0,0,0,,0,0,0,0,0,0,0,0
+50,Male,United States,0,0,0,Sometimes,1-5,1,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+24,Male,United States,0,0,0,Never,26-100,0,0,0,0,0,0,0,,0,1,0,0,0,0,0,0
+27,Male,United States,0,0,0,Unknown,26-100,0,1,0,0,0,0,0,,0,0,1,1,0,0,1,0
+27,Male,Australia,0,0,0,Never,1-5,1,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+32,Male,United States,0,0,1,Sometimes,6-25,0,1,0,1,0,0,1,,0,0,0,1,0,0,1,0
+42,Male,United States,1,0,0,Rarely,6-25,1,0,0,1,0,0,0,,0,0,0,1,0,0,1,0
+37,Male,United States,0,0,0,Often,More than 1000,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+30,Male,Singapore,0,0,0,Sometimes,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,1,0,1
+29,Male,United States,0,0,0,Rarely,More than 1000,0,1,1,0,0,0,0,,1,0,0,0,0,0,0,0
+30,Male,United States,1,0,1,Often,6-25,1,1,0,0,0,1,0,,0,0,1,1,0,0,1,0
+35,Male,United States,0,0,0,Never,26-100,0,1,1,0,1,0,0,,0,0,0,0,0,0,1,0
+35,Male,United States,0,1,1,Rarely,100-500,1,0,1,1,0,0,1,,1,0,0,0,0,0,0,0
+38,Male,Netherlands,0,1,0,Often,26-100,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+22,Male,United Kingdom,0,1,1,Sometimes,100-500,0,1,1,1,0,0,1,,0,0,0,1,0,1,1,0
+24,Male,Germany,0,1,0,Sometimes,100-500,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+22,Male,Netherlands,1,0,0,Never,1-5,0,1,0,0,0,0,0,,0,0,0,1,0,1,0,1
+31,Female,United States,0,0,1,Often,26-100,1,1,1,1,0,0,0,,0,0,0,0,0,1,0,0
+23,Female,United States,0,1,1,Sometimes,More than 1000,0,1,1,1,1,1,1,,1,0,0,0,0,0,0,0
+31,Female,United States,0,1,1,Sometimes,100-500,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+28,Female,United States,0,1,1,Rarely,500-1000,0,1,1,1,1,1,0,,0,0,0,0,0,0,0,0
+37,Other,Canada,0,1,1,Sometimes,100-500,0,0,1,1,0,0,0,,1,0,0,0,0,0,0,0
+34,Male,United States,1,1,1,Sometimes,6-25,0,1,0,1,0,0,1,,0,0,0,0,0,0,0,0
+32,Other,Canada,0,0,0,Sometimes,26-100,1,1,0,1,0,0,1,,1,0,0,0,0,0,0,1
+28,Male,United States,0,1,1,Sometimes,26-100,1,1,1,0,0,0,0,,1,0,0,0,0,0,0,1
+24,Female,United Kingdom,0,0,1,Sometimes,100-500,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+56,Male,United States,0,1,1,Rarely,6-25,0,1,1,1,0,0,0,,1,0,0,0,0,0,0,0
+31,Male,Germany,0,0,0,Sometimes,6-25,1,1,0,0,0,0,0,,0,0,1,1,0,0,1,0
+34,Female,United States,0,0,1,Sometimes,100-500,1,1,1,1,0,0,0,,0,0,0,1,0,0,1,0
+35,Male,Germany,0,0,1,Rarely,100-500,0,0,0,0,1,0,0,,0,0,0,1,0,0,1,0
+28,Male,Germany,0,0,0,Never,26-100,0,1,0,0,0,0,0,,0,0,0,0,1,1,0,0
+36,Male,Poland,1,1,1,Often,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,0,1,1
+30,Male,United Kingdom,0,0,1,Often,26-100,0,1,0,0,0,0,1,,0,0,0,1,0,0,1,0
+35,Male,United States,1,0,0,Unknown,1-5,1,1,1,0,0,0,1,,0,0,0,1,0,0,1,0
+49,Male,Japan,1,1,1,Sometimes,1-5,1,1,0,1,1,0,0,,1,1,0,0,0,0,0,1
+36,Male,Germany,0,0,0,Unknown,26-100,0,1,1,1,0,0,1,,0,0,0,1,0,0,1,0
+35,Male,Germany,0,0,0,Unknown,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+29,Female,Australia,0,1,1,Sometimes,More than 1000,0,0,1,1,1,1,0,,1,0,0,0,0,0,0,1
+57,Male,United States,0,0,0,Never,26-100,0,1,1,1,0,1,1,,1,0,0,0,0,0,0,1
+31,Female,Belgium,0,1,1,Rarely,100-500,0,0,1,0,0,0,0,,0,0,0,0,0,0,0,1
+37,Male,Ireland,1,0,0,Never,6-25,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+25,Male,Ireland,0,1,1,Sometimes,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+30,Male,Australia,0,0,0,Sometimes,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+26,Female,Australia,0,1,0,Sometimes,100-500,0,0,0,1,1,1,0,,0,0,1,1,0,0,0,0
+22,Female,Netherlands,0,0,0,Often,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,1,0,0
+39,Male,United States,0,0,0,Rarely,More than 1000,1,0,0,0,1,1,0,,0,0,0,0,0,0,0,0
+29,Male,United Kingdom,0,1,1,Never,100-500,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+54,Male,United Kingdom,1,1,1,Sometimes,1-5,1,1,0,0,0,0,0,,0,0,0,1,1,1,0,1
+34,Female,Australia,0,1,0,Never,500-1000,0,0,0,0,1,1,0,,1,0,0,0,0,0,0,1
+32,Male,United States,0,0,1,Never,500-1000,0,0,1,0,1,1,0,,0,0,0,0,0,0,1,0
+25,Male,Nigeria,0,0,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,1,1,0,1,0,0
+29,Male,Poland,0,0,0,Rarely,1-5,0,1,0,0,0,0,0,,0,0,0,0,0,0,1,0
+32,Male,Germany,1,0,0,Never,1-5,1,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+30,Male,United Kingdom,0,1,1,Sometimes,More than 1000,0,1,1,1,0,0,1,,0,0,0,1,0,1,1,0
+31,Male,Germany,0,0,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+20,Female,Switzerland,0,0,0,Rarely,More than 1000,0,1,1,1,1,1,1,,0,0,0,0,0,0,1,0
+27,Male,United Kingdom,0,0,0,Never,1-5,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+32,Male,United States,0,0,0,Never,More than 1000,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+26,Male,Ireland,1,0,0,Never,1-5,1,1,0,0,0,0,0,,0,0,0,1,0,0,1,0
+30,Male,Italy,0,0,0,Sometimes,More than 1000,0,0,0,0,0,0,1,,0,0,0,0,0,0,0,0
+30,Male,Ireland,0,0,1,Sometimes,26-100,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+22,Male,India,1,0,0,Unknown,1-5,1,1,0,0,0,0,0,,0,0,0,0,0,0,1,1
+24,Male,Ireland,0,0,0,Unknown,More than 1000,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+26,Male,Netherlands,0,0,0,Never,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+43,Male,France,0,0,0,Unknown,100-500,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+26,Male,Russia,0,0,0,Never,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+23,Male,United States,0,1,0,Sometimes,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+26,Male,Canada,0,0,0,Unknown,100-500,1,1,1,0,0,1,0,,0,0,0,0,0,0,1,0
+26,Female,Israel,0,1,0,Never,100-500,0,1,0,0,0,0,0,,0,0,0,0,0,0,1,0
+35,Male,Canada,0,1,0,Sometimes,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+28,Male,United States,0,0,1,Sometimes,26-100,1,0,0,0,0,0,0,,0,0,0,1,0,0,0,0
+22,Male,India,0,0,0,Unknown,26-100,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+29,Female,United States,0,1,1,Rarely,6-25,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+29,Male,Germany,1,0,0,Unknown,1-5,0,1,0,1,0,0,1,,0,0,1,1,1,1,1,0
+45,Male,United States,0,0,1,Often,1-5,1,1,1,0,0,1,0,,0,0,1,1,0,0,1,0
+33,Male,Bulgaria,0,0,1,Rarely,26-100,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,1
+38,Male,United States,0,0,1,Sometimes,More than 1000,0,0,1,1,1,1,0,,0,0,0,1,0,0,0,0
+19,Other,United States,0,1,1,Often,26-100,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+29,Female,Canada,0,0,1,Rarely,More than 1000,1,0,1,1,1,0,1,,0,0,0,1,0,0,0,0
+21,Female,United Kingdom,0,0,0,Unknown,6-25,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+23,Female,India,0,1,1,Sometimes,More than 1000,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+33,Female,United States,0,1,1,Rarely,More than 1000,0,1,1,1,1,1,1,,0,0,0,1,0,0,1,0
+49,Male,United States,0,1,1,Sometimes,100-500,0,1,1,0,1,1,1,,0,0,0,1,0,0,1,0
+28,Male,United States,0,0,0,Unknown,26-100,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+27,Female,United Kingdom,0,0,1,Sometimes,6-25,1,1,0,0,1,0,1,,0,0,1,1,0,0,1,0
+23,Male,Canada,0,0,1,Sometimes,6-25,0,1,1,0,0,0,0,,0,0,0,0,0,0,0,0
+29,Male,Netherlands,0,0,0,Never,1-5,1,1,0,0,0,0,1,,0,0,1,1,0,0,1,0
+30,Male,Germany,0,0,0,Unknown,26-100,0,1,0,0,0,0,1,,0,0,0,0,0,0,0,0
+28,Female,Canada,0,0,0,Unknown,More than 1000,0,1,1,0,0,0,0,,0,0,0,1,0,0,0,0
+32,Male,United Kingdom,0,0,0,Unknown,6-25,0,1,0,0,0,0,0,,1,0,0,0,0,1,0,0
+32,Male,United Kingdom,0,0,1,Sometimes,26-100,0,0,1,1,0,0,1,,0,0,0,1,0,0,1,0
+37,Male,France,0,0,0,Unknown,100-500,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+39,Female,United States,0,0,0,Unknown,More than 1000,1,0,0,1,0,0,0,,1,0,0,0,0,0,0,0
+31,Male,France,0,0,0,Unknown,500-1000,0,1,0,0,0,0,0,,0,0,0,0,0,0,1,0
+29,Male,United States,0,0,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+30,Male,United States,0,0,0,Unknown,100-500,0,0,1,0,0,0,0,,0,0,0,1,0,0,0,0
+33,Male,United States,1,1,1,Rarely,1-5,1,1,0,1,1,1,0,,0,0,1,1,0,0,1,1
+37,Male,United States,0,1,1,Sometimes,100-500,0,1,1,1,0,0,1,,0,0,1,1,0,0,0,0
+23,Male,United States,0,0,1,Often,26-100,0,0,1,1,1,0,1,,0,0,0,1,0,0,1,0
+43,Male,United States,0,1,1,Sometimes,26-100,0,0,1,0,0,1,0,,1,0,0,0,0,0,0,0
+32,Male,United Kingdom,0,0,1,Rarely,100-500,0,1,0,0,0,0,0,,0,0,1,1,0,0,0,1
+26,Male,United States,0,0,0,Never,26-100,0,1,0,0,0,0,0,,1,1,0,0,0,0,0,0
+32,Male,United States,1,0,1,Sometimes,1-5,1,1,0,0,0,0,0,,0,0,1,1,1,1,0,0
+37,Female,United States,0,0,0,Unknown,26-100,1,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+29,Male,United States,0,0,1,Often,26-100,0,1,1,1,0,0,1,,0,0,1,1,0,0,1,0
+34,Male,United Kingdom,0,0,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+27,Male,France,0,0,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,1,1,0,0,1,0
+30,Male,United States,0,1,0,Never,100-500,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+29,Male,United States,0,0,0,Never,6-25,0,1,1,1,0,1,1,,0,0,0,0,0,0,0,0
+32,Male,United States,1,1,1,Sometimes,1-5,1,1,1,1,0,0,0,,1,0,0,0,0,0,0,0
+,Male,United Kingdom,0,0,1,Sometimes,26-100,0,0,0,0,0,0,0,,1,0,0,0,0,0,0,0
+25,Male,Germany,0,0,0,Unknown,500-1000,0,1,1,1,0,1,1,,0,0,0,1,1,1,1,0
+37,Male,United States,1,0,0,Unknown,6-25,1,1,1,1,1,0,1,,0,0,1,1,0,0,1,0
+29,Male,Netherlands,0,1,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,0,1,0
+27,Male,United States,0,0,0,Unknown,26-100,0,1,1,0,0,0,0,,0,0,1,1,0,0,0,0
+33,Male,United Kingdom,0,0,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+30,Male,Canada,0,1,1,Sometimes,More than 1000,0,0,0,0,0,0,0,,1,0,0,0,0,1,0,1
+29,Male,Canada,0,0,0,Unknown,1-5,1,1,0,1,0,0,0,,0,0,1,1,0,0,0,0
+25,Male,United States,0,1,1,Never,6-25,1,1,0,0,1,0,0,,1,0,0,1,0,0,0,0
+33,Male,United States,0,1,1,Sometimes,1-5,0,0,0,1,0,0,0,,0,0,0,1,0,0,0,0
+31,Male,South Africa,0,0,0,Never,100-500,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+21,Male,Germany,0,0,0,Rarely,6-25,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+30,Male,Switzerland,0,1,1,Sometimes,26-100,0,1,0,0,0,0,0,,1,1,0,0,0,0,0,0
+29,Male,United States,0,0,0,Unknown,More than 1000,0,0,0,0,0,0,0,,0,0,1,1,0,0,0,0
+43,Male,Croatia,1,0,1,Sometimes,1-5,1,1,0,0,0,0,1,,1,0,1,0,0,0,0,1
+37,Male,United Kingdom,0,0,1,Often,6-25,0,1,0,0,0,0,0,,1,0,1,1,0,1,0,0
+24,Male,France,0,0,0,Unknown,26-100,0,1,0,0,1,0,0,,0,0,1,0,0,0,0,0
+29,Male,United States,0,0,0,Unknown,6-25,1,1,0,0,0,0,0,,0,0,1,1,0,0,0,0
+31,Male,United States,0,0,0,Unknown,26-100,0,0,1,1,1,1,1,,0,0,1,1,0,0,0,0
+5,Male,United States,0,0,0,Unknown,100-500,0,1,0,0,0,0,0,,0,0,1,1,0,0,1,0
+33,Male,United Kingdom,1,0,0,Never,100-500,0,0,0,0,0,0,0,,0,0,1,0,0,1,0,0
+43,Male,United States,0,0,0,Unknown,More than 1000,0,0,1,1,0,1,1,,0,0,0,1,0,0,0,0
+33,Male,United Kingdom,0,0,1,Sometimes,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+27,Male,United Kingdom,0,0,0,Unknown,6-25,0,1,0,0,0,1,1,,0,0,1,0,0,1,1,0
+36,Male,United States,0,1,1,Sometimes,More than 1000,1,0,0,0,0,0,0,,1,0,0,0,0,0,0,0
+37,Male,Australia,0,1,1,Sometimes,26-100,0,1,0,1,0,0,1,,0,0,0,1,0,0,1,1
+32,Male,Belgium,0,0,0,Unknown,6-25,0,1,0,1,0,0,0,,1,0,0,0,0,0,0,0
+39,Male,United Kingdom,0,0,1,Sometimes,100-500,0,1,0,0,0,0,0,,0,0,0,0,0,1,1,0
+31,Male,United States,0,1,1,Sometimes,26-100,0,1,1,1,0,0,0,,0,0,0,1,0,1,0,0
+36,Male,United States,0,0,1,Sometimes,100-500,1,1,1,1,0,0,0,,0,0,0,0,0,0,0,0
+30,Male,United States,1,0,1,Sometimes,26-100,1,1,0,0,0,0,0,,0,0,0,0,0,1,0,0
+28,Male,Canada,0,0,0,Unknown,6-25,0,1,1,0,0,0,1,,0,0,0,1,0,0,1,0
+32,Male,Italy,0,0,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+35,Male,United States,0,1,1,Rarely,6-25,0,1,1,1,1,1,1,,0,0,0,1,0,0,1,0
+19,Male,Canada,0,0,1,Sometimes,26-100,0,1,0,0,0,0,0,,0,0,0,1,0,1,0,0
+33,Male,Norway,0,1,0,Unknown,26-100,0,1,1,1,0,0,0,,0,0,0,1,0,0,0,0
+42,Male,Germany,0,0,0,Unknown,More than 1000,1,1,0,0,1,1,1,,0,0,0,0,0,0,1,0
+37,Male,United States,0,1,1,Sometimes,100-500,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+40,Male,Thailand,1,0,0,Never,6-25,0,1,0,0,0,0,1,,0,0,0,1,0,0,1,0
+36,Male,United States,0,0,0,Never,More than 1000,0,1,1,1,1,1,1,,0,0,0,1,0,0,1,0
+29,Female,United States,0,1,1,Sometimes,26-100,1,0,0,0,0,0,0,,0,0,0,1,0,0,0,0
+38,Female,United States,0,1,1,Sometimes,26-100,0,0,1,0,0,0,0,,0,0,0,0,0,0,0,0
+26,Male,United States,0,1,1,Sometimes,More than 1000,0,1,1,0,1,0,0,,1,0,0,0,0,0,0,0
+34,Male,Germany,0,0,0,Rarely,26-100,0,1,0,0,0,0,1,,0,0,0,0,0,0,1,0
+21,Male,United States,0,0,1,Often,More than 1000,0,0,0,1,0,0,0,,1,0,0,0,0,1,0,1
+31,Male,Canada,1,1,0,Sometimes,1-5,1,1,0,1,0,0,1,,0,0,0,0,0,0,1,0
+37,Female,United States,0,1,1,Rarely,26-100,0,0,1,1,1,1,0,,0,0,1,0,0,0,1,0
+37,Male,Ireland,0,1,1,Sometimes,1-5,0,1,0,0,0,0,0,,0,0,1,1,0,0,1,0
+38,Male,Ireland,0,1,1,Sometimes,1-5,0,1,0,0,0,0,0,,1,1,0,0,0,0,0,0
+27,Female,United States,0,0,1,Sometimes,100-500,0,1,0,0,1,0,0,,1,0,0,0,0,0,0,0
+39,Male,Netherlands,1,0,0,Unknown,6-25,0,1,0,0,1,0,1,,0,0,0,1,0,0,1,0
+33,Female,United States,1,1,1,Sometimes,1-5,0,1,1,1,1,1,1,,0,1,0,0,0,0,0,0
+27,Male,United Kingdom,0,0,0,Never,26-100,0,1,0,0,0,0,0,,0,0,0,0,1,1,0,0
+36,Female,United States,0,0,1,Never,6-25,1,1,1,0,0,0,0,,0,0,0,0,0,0,0,0
+28,Male,United Kingdom,0,0,0,Never,26-100,0,1,0,0,0,0,0,,0,0,0,1,0,1,0,0
+39,Male,United Kingdom,0,0,1,Sometimes,500-1000,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+33,Male,United States,1,1,1,Sometimes,1-5,1,1,0,1,0,0,1,,0,0,1,1,0,0,1,0
+32,Male,United Kingdom,0,0,0,Unknown,More than 1000,0,0,0,0,0,0,0,,0,0,0,0,0,1,0,0
+28,Male,United Kingdom,0,0,0,Unknown,More than 1000,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0
+37,Male,United Kingdom,0,1,1,Rarely,6-25,0,1,0,0,0,0,1,,1,0,0,1,0,0,0,1
+39,Male,Canada,0,0,1,Sometimes,100-500,0,0,1,1,1,1,1,,1,0,0,1,0,0,0,1
+43,Other,United States,0,0,0,Sometimes,6-25,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+32,Other,United Kingdom,0,0,1,Sometimes,More than 1000,0,0,0,0,1,1,0,,0,0,1,0,1,1,1,1
+27,Female,United States,0,0,0,Unknown,More than 1000,0,1,0,0,0,1,0,,0,0,0,1,0,0,0,0
+31,Female,United Kingdom,0,0,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,1,1,0,0,0,0
+43,Male,United Kingdom,0,0,1,Never,26-100,0,1,0,0,0,0,0,,0,0,1,1,1,1,0,0
+33,Male,United States,0,0,1,Sometimes,6-25,1,1,0,1,0,0,1,,0,0,1,1,1,1,0,0
+34,Male,United Kingdom,0,1,1,Sometimes,More than 1000,0,1,0,0,0,0,1,,0,0,0,1,0,0,1,0
+33,Male,United States,1,0,0,Unknown,1-5,0,1,0,0,0,0,0,,0,0,1,1,0,0,0,0
+25,Male,United States,0,0,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+25,Male,United States,0,1,1,Sometimes,More than 1000,0,0,1,1,1,1,1,,0,0,0,0,0,0,0,1
+32,Male,United Kingdom,1,1,0,Unknown,1-5,0,1,0,1,0,0,1,,0,0,0,1,0,0,0,0
+25,Male,United States,0,1,1,Sometimes,26-100,0,1,1,1,0,0,1,,0,0,0,0,0,0,0,0
+37,Male,Netherlands,0,0,0,Unknown,100-500,1,0,0,0,0,0,0,,0,0,1,1,0,0,0,0
+39,Male,Switzerland,0,0,1,Never,More than 1000,0,1,1,1,1,1,1,,0,0,0,0,0,0,1,0
+29,Male,United Kingdom,0,0,0,Rarely,100-500,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,1
+33,Male,United States,0,0,1,Sometimes,More than 1000,0,1,1,1,0,0,0,,0,0,0,0,0,0,0,0
+37,Female,United States,0,0,1,Often,6-25,1,1,0,0,0,0,1,,1,0,0,0,0,1,0,1
+35,Female,United States,0,0,1,Sometimes,100-500,0,0,1,0,0,0,1,,1,0,0,0,0,1,0,1
+22,Female,United States,0,1,1,Sometimes,More than 1000,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,1
+38,Male,United States,0,0,0,Never,26-100,0,1,1,1,0,0,0,,0,0,0,1,0,0,0,1
+32,Female,United States,0,1,1,Often,100-500,0,1,1,0,0,0,0,,1,0,0,1,0,0,0,0
+28,Male,Brazil,0,0,0,Unknown,26-100,0,1,0,0,0,0,0,,0,0,0,1,0,1,0,1
+27,Male,Switzerland,0,1,0,Unknown,26-100,0,1,0,0,0,0,0,,0,0,0,1,0,1,0,0
+35,Female,United States,0,0,1,Sometimes,100-500,1,1,0,0,0,0,0,,0,0,0,0,0,0,1,0
+29,Male,United States,0,0,0,Never,100-500,0,0,1,1,1,0,1,,1,0,1,1,0,0,0,0
+23,Male,United States,0,1,1,Sometimes,6-25,0,1,0,1,0,0,0,,0,0,0,1,0,0,1,0
+39,Male,United States,0,0,0,Unknown,26-100,1,1,1,0,0,0,0,,1,0,0,0,0,0,0,0
+30,Female,United States,0,0,0,Unknown,More than 1000,0,1,1,1,1,1,1,,0,0,0,0,0,0,1,0
+32,Male,United Kingdom,0,0,0,Unknown,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+28,Other,United States,0,0,1,Sometimes,26-100,0,1,0,1,0,0,0,,1,0,0,0,0,0,0,1
+40,Female,United States,0,1,1,Sometimes,100-500,0,0,1,1,1,1,1,,0,0,0,1,0,0,0,1
+36,Female,United States,0,1,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,1,0
+27,Male,United States,0,0,0,Unknown,26-100,1,1,0,0,0,0,0,,0,0,1,1,0,0,1,0
+41,Male,United States,0,1,0,Sometimes,More than 1000,0,1,1,1,0,1,0,,0,0,0,0,0,0,0,0
+29,Male,United Kingdom,0,0,0,Never,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+29,Male,United Kingdom,0,0,1,Sometimes,100-500,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+35,Male,United States,0,0,1,Often,1-5,0,0,0,0,0,0,1,,1,0,0,0,0,1,0,1
+28,Male,United States,0,0,1,Never,6-25,1,1,0,1,0,0,0,,0,0,0,0,0,0,0,0
+36,Female,United Kingdom,1,0,0,Sometimes,1-5,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+39,Female,United States,0,0,0,Sometimes,26-100,0,1,0,0,0,0,0,,1,0,0,0,0,1,0,0
+39,Male,United States,0,1,1,Sometimes,500-1000,0,1,1,1,1,1,1,,0,0,0,1,0,0,0,0
+44,Male,United States,1,1,1,Sometimes,1-5,1,1,0,1,0,0,0,,1,1,0,0,0,0,1,0
+26,Other,Germany,1,0,1,Sometimes,6-25,1,1,0,0,1,1,1,,0,0,0,0,0,0,1,0
+35,Male,Denmark,1,1,1,Often,1-5,0,1,0,1,1,0,0,,0,0,0,0,0,1,1,0
+40,Female,United States,0,1,1,Sometimes,100-500,0,0,1,0,1,0,0,,1,0,0,0,0,0,0,0
+35,Male,Denmark,1,1,1,Often,1-5,0,1,0,1,1,0,0,,0,0,0,0,0,1,1,0
+38,Male,United States,0,0,0,Never,More than 1000,1,1,0,1,0,0,0,,1,1,0,0,0,0,0,0
+34,Male,United States,0,0,0,Unknown,More than 1000,1,1,0,0,0,0,0,,0,0,0,1,0,0,1,0
+43,Male,United States,0,0,0,Unknown,More than 1000,0,1,1,0,1,1,0,,0,0,0,1,0,0,0,0
+48,Female,United States,0,1,0,Often,26-100,0,1,0,0,0,0,0,,1,1,0,0,0,0,0,1
+20,Male,United States,0,0,0,Never,26-100,0,1,0,0,0,0,0,,0,0,0,1,0,0,1,0
+40,Male,United States,1,0,0,Sometimes,1-5,1,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+29,Female,United Kingdom,0,0,1,Rarely,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+35,Male,United States,0,1,1,Sometimes,1-5,0,0,0,1,0,0,1,,0,0,0,1,0,0,1,0
+29,Male,United States,0,1,0,Sometimes,More than 1000,1,0,1,1,0,1,1,,0,0,0,0,0,0,1,0
+40,Male,United States,0,0,0,Never,100-500,0,1,1,0,0,0,0,,0,0,0,0,0,0,0,0
+29,Male,Sweden,0,0,1,Rarely,6-25,0,1,0,1,0,0,1,,0,0,0,1,0,0,1,0
+29,Female,United States,0,1,1,Rarely,100-500,0,1,1,0,0,0,0,,0,0,1,1,0,0,0,0
+34,Male,United States,0,0,1,Sometimes,1-5,0,1,0,0,0,0,0,,1,0,0,0,0,1,0,0
+44,Male,United Kingdom,0,1,1,Sometimes,500-1000,0,0,0,0,0,0,0,,0,0,0,1,0,0,0,1
+24,Female,United States,0,1,1,Often,6-25,0,1,1,1,0,0,1,,0,0,0,1,0,1,0,1
+47,Female,United States,0,0,0,Unknown,100-500,1,1,0,0,0,0,0,,1,1,0,0,0,0,0,0
+43,Male,United Kingdom,0,1,0,Unknown,More than 1000,0,0,0,0,0,0,0,,0,0,0,1,0,0,0,0
+36,Male,United States,0,0,0,Rarely,More than 1000,0,1,1,1,1,1,1,,0,0,0,1,0,0,0,0
+43,Male,United States,0,0,1,Sometimes,More than 1000,0,0,0,0,0,0,0,,0,0,0,1,0,0,0,0
+36,Male,United Kingdom,1,0,0,Sometimes,6-25,1,1,0,0,0,0,0,,0,0,1,1,0,0,0,1
+31,Female,United States,0,1,1,Sometimes,100-500,0,1,1,1,0,0,0,,0,0,1,1,0,0,0,0
+35,Male,United States,0,0,0,Sometimes,More than 1000,0,1,0,0,1,0,0,,0,0,0,0,0,0,0,0
+33,Male,United States,0,1,0,Unknown,26-100,0,0,1,0,0,0,1,,0,0,0,0,0,0,0,0
+37,Male,Italy,0,0,0,Sometimes,26-100,0,1,0,0,0,0,0,,1,1,0,0,0,0,0,0
+34,Male,United States,0,0,1,Sometimes,100-500,0,1,0,0,1,0,1,,0,0,0,0,0,0,0,0
+36,Male,Netherlands,1,0,1,Sometimes,1-5,0,1,0,0,0,0,0,,0,0,1,0,0,0,1,0
+40,Male,United States,1,1,1,Sometimes,1-5,1,1,0,1,0,0,1,,0,0,1,1,0,0,1,0
+40,Male,United States,0,0,0,Rarely,More than 1000,0,1,1,1,1,1,1,,0,0,0,0,0,0,0,0
+42,Male,United States,0,0,1,Sometimes,1-5,1,1,0,1,0,0,0,,0,0,0,0,0,0,0,0
+23,Male,United States,0,1,0,Unknown,26-100,1,1,1,1,0,0,1,,0,0,0,0,0,0,0,0
+21,Male,United Kingdom,0,1,0,Never,6-25,0,0,0,0,0,0,1,,0,0,0,0,0,0,0,0
+26,Male,Canada,0,0,0,Sometimes,6-25,1,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+31,Male,United States,0,1,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+25,Male,United States,0,1,0,Unknown,More than 1000,0,1,1,1,1,1,1,,0,0,0,1,0,1,1,0
+51,Male,United States,0,0,0,Never,More than 1000,1,1,1,1,1,1,1,,0,0,1,1,0,0,1,0
+24,Male,United States,0,0,0,Unknown,6-25,0,1,0,0,0,0,1,,0,0,0,1,0,0,0,0
+33,Male,United States,0,0,0,Unknown,100-500,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+32,Male,United Kingdom,0,1,1,Rarely,6-25,0,0,0,0,0,0,0,,1,0,0,0,0,0,0,0
+32,Male,United Kingdom,0,1,1,Rarely,6-25,0,0,0,0,0,0,0,,1,0,0,0,0,0,0,0
+26,Male,United Kingdom,1,0,1,Rarely,1-5,1,1,0,0,0,0,0,,0,0,1,1,0,0,1,0
+23,Male,United States,0,0,0,Never,100-500,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+33,Male,United States,0,1,1,Often,6-25,1,1,0,1,0,0,0,,1,0,0,1,0,0,0,0
+46,Male,United States,0,0,1,Rarely,More than 1000,0,0,1,1,1,1,1,,1,0,0,0,0,0,1,0
+34,Male,United Kingdom,0,0,0,Unknown,6-25,1,1,0,0,0,0,0,,1,0,0,0,0,1,0,1
+35,Male,United States,0,1,1,Sometimes,6-25,0,1,1,1,0,0,0,,0,0,0,0,0,0,0,0
+39,Male,United States,0,0,0,Unknown,1-5,1,1,0,1,0,0,0,,0,0,0,1,0,0,0,0
+32,Male,Germany,1,0,0,Sometimes,1-5,1,1,0,1,0,0,1,,0,0,0,0,0,0,0,0
+43,Male,Mexico,1,0,0,Unknown,More than 1000,1,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+56,Male,United States,0,0,1,Rarely,More than 1000,1,1,1,1,0,1,1,,0,0,1,1,1,1,1,0
+32,Female,United Kingdom,0,1,1,Sometimes,100-500,0,1,0,0,0,0,0,,0,0,0,0,0,1,0,1
+41,Male,United Kingdom,0,0,0,Unknown,26-100,0,0,1,1,1,1,1,,0,0,0,0,0,1,0,1
+39,Male,United States,0,0,0,Unknown,More than 1000,1,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+37,Male,United States,0,1,0,Unknown,500-1000,0,0,1,1,0,0,1,,0,0,0,0,0,0,0,0
+30,Male,United States,1,1,1,Sometimes,6-25,1,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+31,Male,United States,0,0,0,Unknown,26-100,0,1,1,0,1,0,1,,0,0,0,0,0,0,0,0
+29,Male,United States,0,0,0,Unknown,More than 1000,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+23,Female,United Kingdom,0,1,0,Never,More than 1000,0,0,0,0,0,1,0,,1,0,0,0,0,0,0,0
+31,Male,United States,0,0,1,Never,26-100,0,1,1,1,0,0,1,,0,0,0,0,0,0,0,0
+29,Male,United States,0,1,1,Sometimes,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,1,0
+30,Other,United States,0,0,0,Never,26-100,1,1,1,1,0,0,1,,0,0,0,1,0,0,1,0
+37,Male,United States,0,0,0,Never,500-1000,1,1,1,0,1,0,0,,0,0,0,1,0,0,1,1
+36,Male,United States,1,0,0,Never,1-5,0,1,1,0,0,0,0,,0,0,0,1,1,1,1,0
+35,Male,United States,0,1,1,Sometimes,26-100,1,1,1,1,0,0,0,,0,0,0,0,0,0,0,0
+41,Male,United States,0,1,0,Never,500-1000,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+31,Male,United Kingdom,0,0,1,Rarely,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+38,Male,United Kingdom,0,1,0,Unknown,500-1000,0,0,1,1,1,1,0,,0,0,0,1,0,0,0,0
+26,Male,India,1,0,0,Unknown,100-500,0,1,0,0,0,0,1,,0,0,0,1,0,0,1,0
+39,Male,United States,0,1,0,Sometimes,More than 1000,0,1,1,0,1,1,0,,0,0,0,1,0,0,0,1
+42,Male,United States,1,1,0,Sometimes,6-25,1,0,1,0,0,1,0,,0,0,0,0,0,0,0,0
+32,Male,United States,1,1,1,Rarely,1-5,1,1,0,1,0,0,0,,1,0,0,0,0,0,0,0
+29,Male,United States,0,1,0,Unknown,100-500,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+30,Male,United States,0,1,0,Never,100-500,0,1,1,0,0,1,0,,1,1,0,0,0,0,0,0
+40,Male,United States,0,1,1,Often,500-1000,1,1,0,0,0,0,0,,0,0,0,0,0,1,0,0
+51,Male,United States,0,0,0,Unknown,100-500,0,0,0,0,0,0,0,,0,0,0,1,0,0,0,0
+33,Male,United States,0,0,0,Never,More than 1000,0,1,1,1,1,1,1,,0,0,0,1,0,0,1,0
+34,Male,Germany,1,0,1,Sometimes,1-5,1,1,0,0,0,0,1,,0,0,0,0,0,0,0,0
+50,Male,United States,1,0,0,Never,1-5,1,1,0,1,0,0,1,,0,0,0,1,0,0,1,0
+24,Male,United States,0,0,0,Sometimes,26-100,1,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+25,Male,United States,0,1,1,Rarely,26-100,0,0,0,0,0,0,0,,1,0,0,0,0,0,0,0
+43,Male,United Kingdom,0,1,1,Rarely,26-100,0,1,0,0,0,0,0,,1,1,0,0,0,0,0,1
+25,Female,United States,1,0,1,Often,1-5,0,1,1,1,1,1,1,,0,0,0,0,0,0,1,1
+24,Male,United Kingdom,1,0,0,Unknown,1-5,1,1,0,1,0,0,1,,0,0,0,0,0,0,1,0
+51,Male,United States,1,0,0,Never,1-5,0,1,0,1,0,0,1,,0,0,0,0,0,0,0,0
+49,Male,United States,0,1,1,Sometimes,More than 1000,0,1,1,1,0,1,1,,1,0,0,0,0,0,0,1
+30,Male,United States,0,0,0,Unknown,More than 1000,1,1,1,0,1,1,0,,1,0,0,0,0,0,0,0
+25,Female,United States,0,1,1,Sometimes,More than 1000,0,1,1,1,1,0,0,,1,1,0,0,0,0,0,0
+36,Male,United States,0,0,1,Rarely,500-1000,1,1,1,1,0,0,0,,0,0,0,0,0,0,0,0
+48,Male,United States,0,0,1,Never,More than 1000,0,1,1,1,1,1,1,,0,0,1,1,0,0,1,1
+48,Male,Australia,0,0,1,Sometimes,6-25,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,1
+53,Male,United States,0,0,1,Rarely,6-25,1,1,1,1,0,1,0,,0,0,0,0,0,0,0,0
+24,Female,United Kingdom,0,1,1,Often,6-25,1,1,0,0,0,0,0,,0,0,1,1,0,0,0,0
+33,Male,United States,0,1,1,Sometimes,26-100,0,1,0,1,0,1,0,,0,0,1,1,0,0,0,0
+25,Female,Canada,0,1,1,Sometimes,6-25,0,1,1,1,0,0,1,,0,0,0,1,0,0,0,0
+30,Male,United Kingdom,0,0,1,Sometimes,26-100,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+30,Male,United States,1,0,0,Never,1-5,1,1,0,1,0,0,1,,0,0,0,0,0,0,0,0
+34,Male,United Kingdom,1,0,1,Sometimes,1-5,1,1,0,0,0,0,1,,0,0,0,0,0,0,1,0
+31,Male,United States,0,0,0,Unknown,More than 1000,1,1,1,1,1,1,1,,0,0,0,1,0,1,1,0
+22,Female,United States,0,1,1,Often,More than 1000,0,1,0,0,0,0,0,,1,1,0,0,0,0,0,0
+28,Male,United States,0,1,0,Sometimes,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,1,0,0
+35,Male,United States,0,1,1,Rarely,26-100,0,0,1,1,0,1,1,,0,0,0,0,0,0,0,0
+28,Male,United States,0,1,1,Sometimes,26-100,0,0,1,0,0,0,0,,0,0,0,0,0,0,1,0
+42,Male,New Zealand,0,0,1,Sometimes,More than 1000,0,0,0,1,0,0,1,,1,0,0,0,0,1,0,1
+33,Male,United States,0,1,0,Unknown,500-1000,0,1,1,0,0,0,0,,0,0,1,1,1,1,1,0
+29,Male,United States,0,0,0,Sometimes,More than 1000,0,1,1,0,1,0,0,,1,0,0,0,0,0,0,0
+43,Male,United States,0,1,0,Sometimes,500-1000,0,0,1,0,0,0,0,,0,0,0,0,0,0,0,0
+29,Male,United States,0,0,0,Unknown,26-100,0,1,1,1,1,1,0,,0,0,0,0,0,0,1,0
+25,Male,United States,0,0,0,Unknown,100-500,1,1,1,0,0,0,1,,0,0,1,1,0,0,0,0
+31,Male,United States,0,1,0,Never,100-500,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+35,Female,United States,0,1,1,Sometimes,6-25,0,0,1,0,1,1,1,,0,0,0,1,0,0,1,0
+34,Male,United States,0,0,0,Often,1-5,0,1,0,0,0,1,0,,0,0,0,1,0,0,1,0
+43,Male,United States,0,0,1,Sometimes,100-500,1,1,1,1,0,1,1,,1,0,0,0,0,0,0,1
+38,Male,United States,0,1,1,Sometimes,100-500,0,1,0,0,0,0,0,,1,1,0,0,0,0,0,0
+26,Male,United States,0,1,1,Sometimes,More than 1000,0,1,0,0,0,1,1,,0,0,0,0,1,1,0,1
+38,Male,United Kingdom,1,1,1,Rarely,1-5,1,0,0,0,0,0,1,,0,0,0,0,0,0,0,0
+42,Male,United States,0,0,1,Often,6-25,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+33,Male,Netherlands,0,1,1,Unknown,6-25,0,1,0,0,0,0,0,,0,0,1,1,0,0,1,1
+32,Male,United States,0,0,1,Rarely,More than 1000,0,1,1,1,1,1,1,,0,0,0,0,0,0,0,0
+44,Male,United States,0,1,1,Sometimes,6-25,1,1,1,1,1,1,1,,0,0,0,1,0,0,0,0
+28,Male,United States,0,1,1,Rarely,More than 1000,0,1,1,1,0,0,0,,0,0,0,0,0,0,0,0
+40,Male,United States,0,1,1,Sometimes,More than 1000,1,1,1,1,1,1,1,,1,0,0,0,0,0,0,1
+31,Female,United States,0,1,1,Sometimes,500-1000,0,1,1,1,0,0,1,,0,0,0,1,0,0,1,0
+32,Male,United States,0,1,0,Sometimes,100-500,0,1,1,1,1,1,0,,1,0,0,0,0,0,0,0
+28,Male,United States,0,1,1,Sometimes,More than 1000,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+39,Male,United States,0,1,1,Often,26-100,0,1,1,1,0,0,1,,1,0,0,0,0,0,0,0
+45,Male,United States,0,0,0,Unknown,More than 1000,0,0,1,1,1,1,0,,0,0,0,0,0,0,1,0
+43,Male,United States,0,0,1,Rarely,More than 1000,0,1,1,1,1,1,0,,0,0,1,1,0,1,1,0
+35,Male,United States,0,0,1,Sometimes,More than 1000,0,1,1,1,0,1,0,,0,0,0,0,0,0,0,0
+40,Male,United States,0,1,1,Sometimes,6-25,0,1,1,1,0,0,1,,0,0,0,0,0,0,0,0
+34,Male,Netherlands,0,0,1,Rarely,26-100,0,1,0,1,0,0,1,,0,0,1,1,0,0,1,0
+24,Male,United Kingdom,0,1,1,Often,26-100,0,0,0,1,0,0,0,,1,0,0,1,0,0,0,1
+61,Male,South Africa,1,0,1,Sometimes,1-5,1,1,0,0,0,0,0,,1,0,0,1,0,0,0,1
+36,Female,United States,0,1,1,Rarely,6-25,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+38,Male,United States,0,0,0,Unknown,6-25,0,1,0,0,0,0,1,,0,0,0,1,0,0,0,0
+33,Male,Germany,0,1,1,Often,26-100,0,1,0,0,1,0,1,,0,0,0,1,1,1,1,0
+30,Male,United States,0,1,0,Never,More than 1000,0,0,0,0,0,0,0,,1,0,0,0,0,0,0,0
+34,Male,Netherlands,1,1,1,Rarely,1-5,1,1,1,1,1,1,1,,0,0,1,0,0,0,1,0
+26,Male,United States,0,0,1,Rarely,More than 1000,0,1,1,0,0,0,0,,0,0,0,0,0,0,0,0
+33,Male,United Kingdom,0,0,0,Unknown,More than 1000,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+32,Male,United Kingdom,0,0,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+25,Male,Germany,1,0,0,Sometimes,6-25,1,1,0,1,0,0,1,,0,0,0,1,1,1,1,0
+35,Male,Germany,1,0,1,Sometimes,26-100,1,0,0,0,0,0,0,,1,0,1,0,0,0,0,0
+24,Male,United Kingdom,1,1,0,Often,1-5,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+55,Male,United Kingdom,0,0,1,Often,More than 1000,0,0,1,1,1,1,0,,1,0,0,0,0,0,0,1
+33,Male,United Kingdom,1,1,1,Sometimes,1-5,1,1,0,1,0,0,0,,1,0,0,0,0,0,0,1
+26,Female,United Kingdom,1,1,1,Sometimes,1-5,1,1,0,0,0,0,0,,0,0,0,1,0,0,1,0
+25,Male,United Kingdom,0,0,0,Never,6-25,1,1,0,0,0,0,0,,0,0,1,1,0,0,0,0
+45,Male,United Kingdom,0,1,0,Rarely,100-500,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+33,Female,United Kingdom,1,0,1,Sometimes,1-5,1,1,0,1,1,1,1,,0,0,0,1,0,0,0,0
+43,Male,United States,0,0,0,Sometimes,More than 1000,1,1,0,0,0,0,0,,1,0,0,0,0,0,0,1
+30,Male,United Kingdom,1,0,1,Sometimes,6-25,0,1,0,1,0,0,0,,1,1,0,0,0,0,1,1
+40,Male,United States,0,1,1,Rarely,6-25,0,1,0,0,0,0,0,,0,0,1,1,0,0,0,0
+49,Male,United States,0,1,0,Never,More than 1000,0,1,1,1,1,1,1,,0,0,1,1,0,0,1,0
+29,Male,Germany,0,0,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,1,0,0
+26,Male,Germany,0,0,0,Unknown,500-1000,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+38,Male,United States,0,0,0,Never,More than 1000,0,1,1,1,1,1,1,,0,0,0,0,0,0,0,1
+27,Male,France,0,1,0,Unknown,500-1000,0,0,1,1,0,0,1,,0,0,0,0,0,0,0,1
+26,Male,Belgium,0,0,0,Never,6-25,0,1,1,0,0,0,0,,0,0,0,0,0,0,0,0
+28,Male,United Kingdom,0,1,1,Often,26-100,0,1,0,0,0,0,0,,0,0,1,1,0,0,0,0
+40,Male,United States,0,1,1,Sometimes,1-5,1,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+37,Female,Canada,1,1,1,Rarely,1-5,1,1,0,1,0,0,1,,1,0,0,0,0,0,0,1
+34,Female,United Kingdom,0,1,1,Often,26-100,1,0,1,1,0,1,0,,1,1,0,0,0,0,0,0
+28,Male,United States,0,1,1,Often,100-500,0,1,0,0,0,0,0,,0,0,0,0,0,1,0,0
+27,Male,Canada,0,0,0,Never,26-100,0,1,1,0,1,0,1,,0,0,1,1,0,0,1,0
+29,Male,United Kingdom,0,0,1,Sometimes,6-25,1,1,0,0,0,0,0,,0,0,1,1,0,1,1,0
+39,Female,United Kingdom,0,1,0,Rarely,500-1000,1,1,0,0,0,0,0,,1,1,0,0,0,0,0,1
+28,Male,United Kingdom,0,0,0,Often,6-25,0,1,0,0,0,0,0,,1,0,0,0,0,1,1,0
+23,Male,United States,0,1,0,Sometimes,26-100,0,1,1,0,1,1,1,,0,0,0,0,0,0,0,0
+8,Other,"Bahamas, The",1,1,1,Often,1-5,1,1,1,1,1,1,1,,1,1,1,1,1,1,1,1
+38,Male,United Kingdom,0,0,0,Unknown,1-5,1,1,0,0,0,0,1,,0,0,0,1,0,0,0,0
+19,Male,United Kingdom,0,0,0,Unknown,6-25,0,1,1,0,0,1,0,,0,0,1,1,0,0,1,0
+30,Female,United States,0,1,1,Sometimes,26-100,0,1,1,1,1,0,1,,0,0,0,0,0,0,1,0
+28,Male,United Kingdom,1,0,0,Unknown,1-5,1,1,0,1,0,0,1,,0,0,0,0,0,0,1,0
+20,Male,India,0,0,1,Sometimes,26-100,0,1,0,0,0,0,0,,1,0,0,0,0,0,1,0
+35,Male,United Kingdom,1,0,0,Sometimes,1-5,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+39,Male,United States,0,0,1,Rarely,100-500,1,1,1,1,0,0,1,,0,0,0,1,0,0,0,0
+31,Female,United States,0,1,0,Never,More than 1000,0,0,1,0,0,0,0,,1,1,0,0,0,0,0,0
+32,Male,United Kingdom,0,0,0,Rarely,500-1000,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+27,Male,Sweden,0,0,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+25,Male,United States,0,1,1,Often,6-25,1,1,1,1,0,0,1,,0,0,1,1,0,0,0,0
+42,Male,United States,0,1,1,Sometimes,6-25,1,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+34,Male,United States,0,1,1,Often,100-500,0,1,1,1,0,0,1,,0,0,1,1,0,0,0,0
+26,Female,United States,0,0,1,Sometimes,26-100,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,1
+35,Male,United Kingdom,0,1,1,Sometimes,1-5,0,1,0,1,0,0,1,,1,1,0,0,0,0,1,1
+34,Male,United Kingdom,0,0,0,Never,500-1000,0,1,0,0,0,0,0,,0,0,1,1,0,0,1,0
+38,Male,United States,0,1,1,Sometimes,100-500,1,0,1,1,0,1,1,,0,0,1,1,1,1,0,0
+34,Male,United States,0,0,0,Sometimes,100-500,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+39,Male,United States,0,1,1,Sometimes,6-25,1,1,0,1,0,0,1,,0,0,0,1,0,1,1,0
+44,Female,United States,0,0,0,Unknown,100-500,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+40,Male,United States,0,0,0,Unknown,More than 1000,0,0,1,1,1,1,1,,0,0,0,1,0,0,0,0
+33,Female,United States,1,0,0,Never,1-5,1,1,0,1,0,0,1,,0,0,0,0,0,0,1,0
+24,Female,United States,0,1,0,Sometimes,More than 1000,0,0,1,1,0,0,0,,1,0,0,0,0,0,0,1
+38,Female,United States,0,1,0,Sometimes,26-100,1,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+31,Male,United States,0,0,0,Sometimes,More than 1000,0,1,1,0,1,1,1,,1,0,0,0,0,0,1,0
+23,Male,Israel,0,0,0,Unknown,100-500,0,1,0,0,0,0,1,,0,0,0,1,0,1,0,0
+26,Female,United States,0,0,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,1,1,0,0,1,0
+46,Other,United States,0,0,1,Often,More than 1000,0,0,1,1,1,1,0,,1,0,0,0,0,0,0,1
+30,Male,United States,0,1,1,Sometimes,26-100,1,1,1,0,0,0,0,,0,0,0,0,0,0,0,0
+25,Male,United States,0,0,0,Rarely,26-100,1,1,0,0,0,0,0,,1,0,0,0,0,1,0,1
+19,Male,Canada,0,0,0,Never,26-100,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+30,Female,United States,0,1,1,Sometimes,500-1000,0,0,1,1,1,1,1,,0,0,0,0,0,0,0,1
+32,Male,United States,0,0,0,Never,6-25,0,1,1,1,1,1,0,,0,0,1,1,0,0,1,0
+32,Male,United Kingdom,0,0,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+37,Male,United States,0,1,0,Sometimes,26-100,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+42,Male,United States,0,1,1,Sometimes,6-25,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+25,Female,United States,0,0,0,Never,More than 1000,0,1,1,1,1,1,0,,0,0,0,1,0,0,1,0
+19,Male,United States,0,0,0,Sometimes,1-5,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+40,Female,United States,0,1,0,Never,100-500,1,1,1,1,1,0,0,,1,1,0,0,0,0,0,0
+34,Male,United States,0,0,0,Unknown,More than 1000,0,0,1,0,1,0,0,,0,0,0,1,0,0,0,0
+26,Male,United States,0,1,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,0,1,0
+31,Male,United States,0,1,1,Rarely,6-25,0,1,0,0,0,0,1,,0,0,1,1,0,0,1,0
+40,Male,United States,0,1,0,Sometimes,More than 1000,1,0,1,0,1,0,0,,1,0,0,0,0,0,0,0
+31,Female,United States,0,1,1,Often,26-100,0,1,0,0,0,0,0,,1,0,0,0,0,1,0,1
+36,Male,United States,0,0,0,Never,100-500,0,0,0,0,0,0,0,,1,0,0,0,0,0,0,1
+35,Male,Canada,0,1,0,Sometimes,6-25,1,1,0,1,0,0,0,,0,0,0,0,0,0,0,0
+26,Male,Australia,0,1,1,Sometimes,26-100,1,1,0,0,0,0,1,,0,0,1,1,0,0,1,0
+44,Male,United States,0,0,0,Unknown,More than 1000,1,0,0,0,0,0,1,,1,0,0,0,0,0,0,0
+34,Female,United States,0,0,0,Sometimes,1-5,0,1,0,0,0,0,0,,0,0,0,1,0,0,1,0
+35,Male,United States,0,0,0,Unknown,6-25,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+28,Female,United States,0,1,1,Sometimes,26-100,1,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+33,Male,United States,0,0,0,Unknown,6-25,1,1,1,0,0,1,1,,0,0,0,1,0,0,1,0
+40,Male,United States,0,1,1,Sometimes,More than 1000,1,1,1,1,0,1,0,,1,0,0,0,0,0,0,0
+26,Male,United States,0,0,1,Sometimes,6-25,0,1,1,1,0,0,1,,0,0,0,0,0,0,0,0
+29,Female,United Kingdom,0,0,1,Often,More than 1000,0,0,1,1,0,0,0,,0,0,0,0,0,1,0,1
+26,Female,Canada,0,1,1,Sometimes,100-500,0,1,1,0,0,0,1,,0,0,0,0,0,0,0,0
+33,Other,Italy,0,1,1,Sometimes,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+28,Male,Brazil,0,1,0,Sometimes,100-500,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,1
+41,Male,United States,1,0,1,Often,1-5,1,0,0,1,1,1,1,,0,0,0,0,0,0,1,1
+39,Male,United Kingdom,1,1,1,Sometimes,1-5,1,1,0,1,1,1,1,,0,0,1,1,0,0,1,1
+26,Female,United States,0,1,1,Sometimes,More than 1000,0,1,1,1,0,0,0,,0,0,0,1,0,0,0,1
+23,Female,United States,0,1,0,Sometimes,26-100,0,0,0,0,0,0,0,,1,0,0,0,0,0,0,0
+35,Male,Switzerland,0,1,1,Often,More than 1000,0,1,0,0,0,0,1,,0,0,0,0,0,0,0,0
+36,Male,United States,0,0,0,Never,1-5,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+42,Male,United States,0,0,0,Rarely,More than 1000,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+39,Male,United States,0,1,1,Sometimes,500-1000,0,1,1,1,0,0,1,,0,0,0,1,0,0,1,0
+27,Male,United States,0,0,0,Never,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+33,Male,United States,1,0,0,Never,6-25,1,1,0,0,0,0,0,,0,0,0,1,0,0,1,0
+31,Male,Canada,0,1,1,Often,More than 1000,0,1,1,0,0,0,0,,0,0,0,0,0,0,0,0
+28,Female,United States,0,0,1,Rarely,6-25,0,1,1,1,0,1,1,,0,0,0,0,0,1,0,0
+29,Female,United States,0,0,1,Often,More than 1000,1,0,1,0,0,0,0,,0,0,0,1,0,0,0,0
+27,Male,United States,0,0,1,Sometimes,100-500,0,1,0,0,0,0,1,,0,0,0,0,0,0,0,0
+44,Male,United States,1,0,0,Never,1-5,1,1,0,0,0,0,1,,0,0,0,0,0,0,0,0
+25,Male,United States,0,0,1,Often,6-25,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+24,Male,Germany,0,1,1,Sometimes,6-25,0,1,0,0,0,0,0,,0,0,1,1,0,0,0,0
+25,Male,South Africa,0,1,1,Often,6-25,0,0,0,0,0,0,1,,0,0,0,1,0,0,0,1
+34,Male,United States,0,0,0,Never,6-25,1,1,1,0,0,0,0,,0,0,0,0,0,0,0,0
+26,Male,United States,0,0,0,Never,More than 1000,0,0,1,1,0,0,0,,0,0,0,1,0,0,0,0
+48,Male,United States,0,0,0,Never,26-100,0,0,1,1,1,1,1,,0,0,0,1,0,0,0,0
+34,Male,Greece,0,0,0,Unknown,26-100,1,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+39,Female,United States,0,0,1,Sometimes,6-25,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+43,Male,United States,0,0,0,Sometimes,More than 1000,1,1,1,0,0,1,0,,0,0,0,0,0,0,0,0
+41,Male,United States,0,0,0,Rarely,More than 1000,0,1,1,1,1,1,0,,0,0,0,0,0,0,1,1
+25,Male,United States,0,0,0,Never,More than 1000,0,0,0,0,0,0,0,,0,0,0,1,0,0,0,0
+31,Male,United States,0,0,1,Sometimes,100-500,0,1,1,1,0,0,0,,0,0,0,0,0,0,0,0
+40,Male,United States,0,1,1,Sometimes,More than 1000,0,1,1,1,1,1,1,,1,1,0,0,0,0,0,1
+43,Male,United States,1,1,1,Sometimes,1-5,1,1,1,0,0,0,0,,0,0,0,0,0,0,0,0
+27,Female,United States,0,1,1,Often,More than 1000,0,1,1,1,1,1,1,,0,0,1,0,0,0,0,1
+37,Female,United States,0,1,1,Sometimes,26-100,1,1,1,1,0,0,0,,1,0,0,0,0,0,0,0
+32,Male,Netherlands,1,0,1,Sometimes,1-5,0,1,0,0,0,0,1,,0,0,0,1,0,0,0,0
+25,Male,United States,0,1,1,Often,1-5,0,1,0,1,0,0,1,,0,0,1,1,0,0,0,0
+29,Male,Netherlands,0,1,1,Often,1-5,0,1,0,0,0,1,0,,0,0,1,1,0,0,1,0
+30,Female,United States,0,1,1,Often,More than 1000,0,0,1,0,0,0,0,,1,0,0,0,0,0,0,0
+34,Female,Canada,0,1,1,Often,26-100,0,0,0,0,1,0,0,,0,0,0,0,0,0,1,0
+32,Male,United Kingdom,0,1,1,Sometimes,1-5,0,0,1,1,1,1,1,,0,0,0,0,0,0,0,0
+37,Male,Germany,0,0,0,Unknown,6-25,0,1,0,0,0,0,1,,0,0,1,1,0,0,1,0
+41,Male,Germany,0,0,1,Sometimes,More than 1000,0,1,0,0,0,0,0,,0,0,1,1,0,0,1,0
+38,Male,United States,0,1,0,Never,More than 1000,0,0,1,0,1,1,0,,1,0,0,0,0,0,0,0
+32,Male,United States,0,0,1,Sometimes,26-100,0,1,1,1,1,0,1,,0,0,0,1,0,0,0,0
+28,Female,United States,0,1,1,Sometimes,100-500,0,1,1,1,0,0,0,,0,0,0,0,0,0,1,0
+11,Male,United States,1,0,0,Never,1-5,1,1,0,1,0,0,1,,0,0,0,0,0,0,1,0
+43,Male,United States,0,1,0,Never,100-500,0,0,1,1,0,0,0,,0,0,0,0,0,0,0,0
+32,Male,United States,0,1,1,Often,100-500,0,1,0,1,0,0,0,,1,0,1,1,0,1,0,0
+25,Male,United States,0,0,1,Sometimes,More than 1000,0,1,1,1,1,0,1,,1,0,0,0,0,0,1,0
+37,Male,United States,0,0,1,Sometimes,100-500,0,1,1,0,0,1,1,,0,0,0,1,0,0,1,0
+36,Male,United States,1,0,1,Sometimes,1-5,0,0,0,1,0,0,0,,0,0,0,0,0,0,0,1
+24,Male,United States,0,1,1,Rarely,6-25,1,1,0,0,0,0,0,,0,0,1,1,0,1,1,0
+40,Male,United States,0,1,1,Sometimes,More than 1000,0,1,1,0,1,0,0,,0,0,0,0,0,0,0,1
+29,Male,United States,0,0,0,Unknown,More than 1000,0,0,0,0,1,0,1,,0,0,0,1,0,0,1,0
+43,Male,United States,0,0,0,Never,500-1000,0,1,0,0,0,0,0,,0,0,1,0,0,0,1,0
+29,Male,United States,0,0,0,Unknown,6-25,1,1,1,0,0,1,0,,0,0,0,1,0,1,0,0
+26,Male,United States,0,1,0,Sometimes,100-500,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+33,Female,Canada,1,1,1,Often,1-5,1,1,0,1,0,0,0,,1,1,0,0,0,0,0,1
+35,Female,United States,0,1,0,Sometimes,6-25,1,1,0,0,0,0,0,,0,0,1,0,0,0,1,0
+45,Male,United States,0,0,0,Never,6-25,1,1,1,0,0,0,0,,1,0,0,0,0,0,0,0
+25,Male,United States,0,0,1,Rarely,6-25,1,1,0,1,0,0,0,,0,0,0,0,0,0,0,0
+50,Male,France,1,0,1,Sometimes,26-100,1,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+26,Male,Australia,0,1,1,Rarely,26-100,0,1,0,0,0,0,0,,0,0,1,1,0,1,1,0
+33,Female,United States,0,0,1,Often,More than 1000,0,1,1,1,0,0,0,,1,0,0,0,0,0,0,0
+30,Male,India,0,0,0,Often,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+33,Male,Croatia,0,1,1,Sometimes,6-25,1,1,1,1,0,0,1,,0,0,0,1,0,0,1,0
+29,Male,France,0,0,1,Often,6-25,0,1,1,0,0,0,1,,0,0,1,0,0,1,0,0
+37,Male,Germany,0,0,0,Unknown,6-25,1,1,0,0,0,0,0,,0,0,0,0,0,1,0,0
+25,Male,United States,0,1,1,Sometimes,1-5,1,1,0,0,0,0,0,,0,0,1,1,0,1,0,0
+40,Male,United States,0,0,0,Unknown,More than 1000,0,0,1,0,0,0,0,,0,0,0,0,0,0,0,0
+24,Male,Canada,0,0,0,Sometimes,26-100,0,1,1,1,0,0,1,,0,0,0,0,0,0,0,1
+40,Male,United Kingdom,0,0,1,Never,100-500,0,1,0,0,0,0,0,,0,0,1,0,0,0,0,0
+46,Male,United States,0,1,1,Sometimes,6-25,0,1,0,1,0,0,0,,1,0,0,0,0,0,0,0
+38,Male,United States,0,1,1,Rarely,More than 1000,0,0,1,1,1,1,1,,1,0,0,1,0,1,0,0
+34,Male,United States,0,0,0,Never,1-5,1,1,0,1,0,0,0,,1,1,0,0,0,0,0,0
+32,Male,United Kingdom,1,0,1,Rarely,1-5,0,1,0,1,1,1,1,,0,0,0,1,0,1,0,1
+44,Male,United Kingdom,0,0,1,Sometimes,More than 1000,0,0,0,0,0,1,0,,0,0,0,0,0,0,0,0
+33,Female,United Kingdom,0,0,1,Never,100-500,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+45,Female,United States,0,0,1,Rarely,26-100,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+35,Male,United States,0,0,0,Unknown,6-25,0,1,0,0,0,0,1,,0,0,0,0,0,0,1,0
+26,Male,Germany,1,1,1,Often,1-5,0,1,0,0,0,0,0,,0,0,1,1,0,1,0,1
+20,Female,United States,0,0,1,Sometimes,26-100,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+,Other,United States,1,1,1,Often,1-5,1,1,1,1,1,1,1,,1,1,1,1,1,1,1,1
+37,Male,Netherlands,0,1,0,Sometimes,6-25,0,1,0,0,0,0,1,,0,0,0,1,0,0,1,0
+28,Male,United States,0,0,0,Unknown,More than 1000,0,0,1,0,0,0,1,,0,0,0,0,0,1,0,0
+42,Female,United States,0,1,1,Sometimes,26-100,0,0,1,1,0,0,0,,1,0,0,0,0,1,0,0
+32,Male,United Kingdom,0,0,0,Unknown,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,1
+36,Female,United States,0,1,1,Rarely,More than 1000,1,1,1,1,0,0,1,,0,0,0,0,0,0,0,0
+27,Male,New Zealand,0,0,0,Rarely,26-100,0,1,0,1,0,1,0,,1,0,0,0,0,0,0,1
+27,Male,New Zealand,0,0,0,Rarely,26-100,0,1,0,1,0,1,0,,1,0,0,0,0,0,0,1
+27,Male,United Kingdom,0,0,1,Sometimes,More than 1000,0,0,0,0,0,0,1,,0,0,1,1,0,0,0,0
+25,Male,United Kingdom,0,1,1,Sometimes,26-100,1,1,0,0,0,0,1,,0,0,0,1,0,0,1,0
+41,Male,United Kingdom,0,1,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+23,Male,Germany,0,1,1,Sometimes,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+21,Male,United Kingdom,0,0,1,Sometimes,More than 1000,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+26,Male,Moldova,0,0,1,Often,26-100,0,1,0,1,0,0,1,,0,0,1,1,1,1,0,0
+29,Male,Sweden,0,0,0,Rarely,More than 1000,0,1,0,0,0,0,0,,0,0,0,0,0,1,0,1
+28,Male,Belgium,0,0,0,Sometimes,More than 1000,0,0,0,0,0,0,0,,1,0,0,0,0,0,0,1
+27,Female,United Kingdom,0,1,0,Unknown,More than 1000,0,0,0,1,0,0,1,,0,0,0,0,0,1,1,0
+23,Male,Israel,0,0,0,Never,More than 1000,0,0,0,1,1,1,1,,0,0,1,1,0,1,1,0
+26,Female,United States,0,1,0,Sometimes,26-100,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+38,Male,United Kingdom,0,1,1,Sometimes,1-5,0,1,0,0,0,0,0,,0,0,0,1,0,1,0,0
+39,Male,United Kingdom,0,1,1,Sometimes,More than 1000,0,0,0,0,0,0,1,,0,0,0,1,0,0,1,0
+35,Male,United States,0,1,1,Often,More than 1000,0,0,1,1,0,1,0,,1,0,0,0,0,1,0,0
+32,Male,United States,0,0,0,Rarely,6-25,0,1,1,0,0,0,0,,0,0,0,0,0,0,0,0
+32,Male,United States,0,0,1,Sometimes,More than 1000,0,1,1,1,1,1,1,,0,0,0,0,0,0,0,1
+26,Male,United Kingdom,0,0,0,Never,6-25,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+38,Male,Canada,0,1,1,Rarely,100-500,0,1,0,0,0,0,0,,0,0,1,1,0,0,0,0
+34,Female,United Kingdom,0,1,0,Rarely,26-100,0,0,1,1,1,1,1,,0,0,0,1,0,0,1,0
+39,Male,United States,0,1,1,Often,26-100,0,0,0,0,0,0,0,,1,0,0,0,0,0,0,0
+32,Male,Canada,1,0,0,Never,6-25,1,1,0,0,0,0,0,,0,0,1,1,0,0,1,0
+37,Male,Netherlands,1,0,0,Never,1-5,1,1,0,0,0,0,0,,1,1,0,0,0,0,0,0
+31,Male,United Kingdom,0,1,1,Never,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+30,Male,United States,0,1,1,Rarely,6-25,0,1,0,1,0,0,0,,0,0,0,0,0,0,0,0
+51,Male,Singapore,0,0,0,Never,More than 1000,1,1,0,0,0,0,0,,1,0,0,0,0,0,0,0
+29,Male,United States,0,0,1,Sometimes,26-100,0,1,1,1,0,0,0,,1,0,0,0,0,0,0,0
+31,Male,United Kingdom,0,0,0,Never,100-500,0,1,1,0,0,1,0,,0,1,0,0,0,0,1,0
+31,Male,India,0,0,0,Unknown,26-100,0,1,0,0,0,0,0,,1,1,0,0,0,0,0,0
+26,Male,United States,0,1,1,Sometimes,6-25,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+46,Female,United States,0,0,1,Often,100-500,1,0,1,1,0,0,1,,0,0,0,0,0,0,0,0
+32,Male,United States,0,1,0,Sometimes,More than 1000,0,1,1,0,1,0,0,,0,0,1,1,0,0,0,0
+29,Male,United States,0,1,1,Sometimes,26-100,0,0,1,1,1,1,0,,0,0,0,0,0,0,0,0
+34,Male,Poland,0,0,0,Never,More than 1000,1,1,0,0,0,0,0,,0,0,0,0,0,1,0,0
+26,Male,Colombia,0,0,0,Often,6-25,0,1,0,0,0,0,0,,1,0,0,0,0,0,1,0
+32,Female,United States,0,0,1,Sometimes,More than 1000,0,1,1,1,0,0,0,,0,0,0,0,0,0,0,0
+29,Male,United States,0,0,0,Unknown,More than 1000,0,1,0,0,0,0,0,,0,0,0,1,0,1,0,0
+30,Male,United States,0,0,0,Unknown,More than 1000,0,0,1,0,1,1,0,,1,0,0,0,0,0,0,0
+40,Female,United States,0,1,1,Sometimes,26-100,0,1,1,1,0,1,1,,0,0,1,1,0,0,1,1
+23,Male,United Kingdom,0,0,1,Sometimes,1-5,0,1,0,0,0,0,0,,0,0,1,1,1,1,0,1
+20,Male,Georgia,0,0,0,Rarely,26-100,0,0,0,0,0,0,0,,1,1,0,0,0,0,0,0
+38,Male,United States,0,1,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,1
+26,Female,United States,0,1,1,Rarely,100-500,0,1,1,0,0,0,0,,0,0,0,0,0,0,0,0
+29,Male,United States,0,0,0,Never,26-100,0,1,0,0,0,0,0,,0,0,0,1,0,1,0,1
+40,Male,China,1,0,0,Sometimes,1-5,1,1,0,1,0,0,0,,0,0,0,0,0,0,0,0
+25,Female,Bulgaria,0,0,1,Sometimes,26-100,1,1,0,0,0,0,0,,0,0,1,0,0,0,0,0
+32,Female,United States,0,0,1,Sometimes,26-100,0,1,1,1,0,0,1,,0,0,0,0,0,0,0,0
+38,Male,United States,0,1,1,Sometimes,More than 1000,0,0,1,1,1,1,1,,0,0,0,0,0,0,0,1
+72,Female,United States,0,1,1,Never,500-1000,1,0,1,0,0,1,0,,0,0,0,1,0,0,0,1
+35,Female,United States,0,1,1,Sometimes,1-5,1,1,0,0,0,0,1,,0,0,0,0,0,0,1,0
+28,Female,United States,0,0,1,Often,6-25,0,1,0,1,0,0,0,,1,0,0,0,0,0,0,0
+27,Other,United States,0,0,0,Never,100-500,0,0,0,0,0,0,0,,0,0,0,1,0,0,1,0
+56,Female,United States,1,0,0,Rarely,1-5,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+38,Male,United States,0,1,1,Sometimes,26-100,1,1,1,0,0,0,0,,0,0,0,0,0,0,0,0
+31,Female,Belgium,0,0,0,Unknown,26-100,0,1,0,0,0,0,1,,0,0,0,0,0,0,0,0
+40,Male,United States,0,1,1,Sometimes,6-25,0,1,1,1,0,0,1,,0,0,0,0,0,0,1,0
+44,Male,United States,0,1,1,Sometimes,100-500,0,1,1,1,0,1,1,,0,0,0,0,0,0,0,0
+34,Male,Canada,0,1,0,Sometimes,More than 1000,0,1,1,0,1,1,1,,0,0,0,0,0,0,0,0
+37,Male,United Kingdom,0,0,0,Never,26-100,1,1,0,0,0,0,0,,0,0,0,1,0,1,0,0
+38,Male,Italy,0,0,0,Never,26-100,0,1,0,0,0,0,1,,0,0,0,1,1,0,0,0
+27,Male,Germany,0,0,0,Unknown,26-100,0,1,0,0,0,0,0,,0,0,0,1,1,1,0,0
+34,Female,Ireland,0,0,1,Sometimes,500-1000,0,0,1,1,1,0,1,,1,1,0,0,0,0,1,0
+35,Female,Ireland,0,0,0,Rarely,1-5,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+34,Male,Ireland,0,0,1,Often,6-25,0,1,0,0,0,0,0,,1,0,0,1,0,0,0,0
+32,Male,United States,0,0,1,Often,26-100,1,1,1,0,0,0,0,,1,0,0,0,0,0,0,0
+25,Male,Ireland,0,0,0,Unknown,100-500,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+28,Male,Australia,0,0,1,Often,100-500,1,1,0,1,0,0,0,,1,0,0,0,0,0,0,0
+28,Female,United States,0,0,1,Rarely,6-25,0,1,1,0,0,0,0,,1,1,0,0,0,0,0,1
+31,Male,Brazil,1,0,1,Unknown,1-5,0,1,0,1,0,0,0,,0,0,1,1,0,0,0,0
+24,Male,United Kingdom,0,0,0,Unknown,100-500,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+34,Male,Ireland,0,1,1,Never,1-5,1,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+32,Male,Ireland,0,0,1,Sometimes,6-25,0,1,0,0,0,0,0,,0,0,0,1,0,0,0,0
+34,Male,United Kingdom,0,1,0,Often,26-100,1,0,0,0,0,0,0,,0,0,0,1,0,1,1,0
+23,Male,United States,0,0,1,Sometimes,1-5,0,1,0,1,0,0,0,,0,0,0,1,0,0,0,0
+33,Male,Czech Republic,0,1,0,Often,100-500,0,1,0,1,0,0,0,,0,0,0,1,0,0,0,1
+29,Male,Singapore,0,1,1,Sometimes,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+24,Male,Ireland,0,1,0,Unknown,1-5,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+45,Male,Ireland,0,0,0,Never,More than 1000,1,1,0,0,0,0,0,,1,0,1,0,0,0,0,1
+34,Female,United Kingdom,0,0,1,Sometimes,More than 1000,0,0,0,1,0,1,1,,0,0,0,1,0,0,0,1
+31,Male,Philippines,0,0,0,Sometimes,More than 1000,0,1,0,0,0,0,0,,1,1,0,0,0,0,0,1
+33,Male,United States,0,0,1,Often,26-100,1,1,1,1,0,0,1,,0,0,0,0,0,0,0,0
+28,Male,Netherlands,0,0,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+27,Male,United Kingdom,0,0,0,Rarely,More than 1000,1,0,0,0,0,1,0,,0,0,0,1,0,0,0,0
+42,Male,Ireland,0,0,0,Never,26-100,0,1,0,1,0,0,0,,1,1,0,0,0,0,0,0
+28,Male,Netherlands,0,0,0,Unknown,6-25,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+38,Male,United States,0,0,1,Sometimes,More than 1000,1,1,1,0,1,1,1,,0,0,1,1,0,0,0,0
+46,Male,United States,0,1,1,Often,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+46,Male,United States,0,1,1,Sometimes,100-500,1,1,0,0,0,0,0,,0,0,0,1,1,1,0,0
+41,Female,Netherlands,1,0,1,Rarely,1-5,1,1,0,1,0,1,0,,0,0,1,1,1,1,1,0
+23,Male,United Kingdom,0,0,0,Never,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,1,1
+24,Male,Ireland,0,1,1,Sometimes,More than 1000,0,1,1,1,0,1,0,,0,0,0,0,0,0,1,1
+23,Female,Ireland,0,0,1,Rarely,26-100,0,1,0,1,1,0,0,,0,0,1,0,0,0,0,0
+39,Male,Netherlands,0,0,0,Unknown,More than 1000,0,0,1,0,1,0,0,,0,0,0,0,0,0,1,0
+32,Female,Ireland,0,1,0,Never,More than 1000,0,1,1,1,0,1,1,,0,0,0,0,0,0,0,0
+25,Male,United States,0,1,1,Sometimes,26-100,0,1,0,1,0,0,0,,1,0,0,0,0,0,0,0
+39,Male,Greece,0,0,0,Unknown,6-25,1,1,0,0,0,0,1,,1,0,0,0,0,0,0,0
+23,Female,United Kingdom,0,1,1,Sometimes,6-25,0,1,0,1,0,1,1,,0,0,1,1,0,0,1,0
+24,Male,United Kingdom,1,0,1,Sometimes,6-25,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,1
+25,Male,United Kingdom,0,1,1,Sometimes,More than 1000,0,0,1,1,1,1,1,,0,0,1,1,1,1,1,0
+23,Male,United Kingdom,0,0,1,Rarely,6-25,0,1,0,1,0,0,0,,0,0,1,1,0,0,0,0
+24,Other,United Kingdom,0,0,1,Sometimes,6-25,0,0,0,0,0,0,0,,1,0,0,0,0,0,0,0
+23,Male,Canada,0,0,1,Often,26-100,0,1,1,1,1,0,0,,0,0,1,0,0,0,0,0
+60,Male,United States,0,0,1,Often,More than 1000,1,1,0,0,1,0,0,,0,0,0,0,0,0,0,0
+28,Male,Ireland,0,0,0,Sometimes,26-100,0,1,0,1,0,0,1,,1,0,0,0,0,0,0,1
+28,Male,United States,0,1,1,Often,More than 1000,0,0,1,1,1,1,1,,1,0,0,1,0,0,0,1
+30,Male,Netherlands,0,0,0,Sometimes,500-1000,0,1,0,0,0,0,0,,0,0,1,1,0,1,0,0
+31,Male,Germany,0,1,1,Sometimes,100-500,0,1,0,0,0,0,1,,0,0,0,0,0,0,0,0
+31,Male,Poland,1,0,1,Often,6-25,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+28,Male,Ireland,0,0,1,Rarely,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+43,Female,United States,0,1,1,Rarely,More than 1000,1,1,1,1,0,1,0,,0,0,0,1,0,0,0,0
+32,Female,United Kingdom,0,0,0,Unknown,More than 1000,0,0,0,0,0,0,0,,0,0,0,1,0,1,0,0
+22,Male,Australia,0,1,1,Often,100-500,0,0,1,1,1,1,1,,0,0,0,1,0,0,0,1
+32,Male,United States,0,0,0,Never,100-500,0,1,1,0,0,1,0,,0,0,0,0,0,1,0,0
+36,Male,Finland,0,0,1,Often,6-25,0,1,0,0,0,0,0,,1,0,0,0,0,0,0,1
+41,Female,United States,0,1,1,Sometimes,26-100,0,1,1,0,0,0,0,,1,0,0,0,0,0,0,0
+30,Male,United States,0,1,1,Sometimes,26-100,0,1,1,1,0,0,1,,0,0,1,1,0,0,1,0
+30,Male,United States,1,1,1,Often,26-100,0,1,1,0,1,1,0,,0,0,0,1,0,0,1,0
+36,Male,South Africa,0,1,1,Often,100-500,0,0,0,1,0,0,0,,0,0,0,1,0,1,1,0
+29,Male,United States,0,1,1,Sometimes,100-500,1,1,1,1,1,0,1,,1,0,0,0,0,0,0,0
+36,Male,United States,0,1,0,Rarely,More than 1000,0,0,0,0,1,1,0,,0,0,0,0,0,0,0,0
+26,Male,United Kingdom,0,0,1,Unknown,26-100,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0
+32,Male,United States,0,1,1,Often,26-100,1,1,1,1,0,0,1,,0,0,0,1,0,0,1,0
+34,Male,United States,0,1,1,Sometimes,More than 1000,0,1,1,1,0,0,0,,1,1,0,0,0,0,0,0
+46,Female,United States,0,0,0,Unknown,100-500,1,1,0,1,0,0,0,,1,0,0,0,0,0,0,0
+25,Male,United States,0,1,1,Sometimes,26-100,0,0,1,1,0,0,1,,0,0,0,0,0,0,0,0
